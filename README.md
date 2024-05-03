@@ -1,5 +1,3 @@
-![image](fondo.jpg)
-
 - 👋 Hi, I’m @diegogerwig
 - 👀 I’m interested in 🖥 🐶 🚲 🏗 🔭
 - 📫 How to reach me diegogerwig@gmail.com
@@ -11,6 +9,10 @@
 
 
 ![diegogerwig's Stats](https://github-readme-stats.vercel.app/api?username=diegogerwig&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+
+
+<figure><embed src="https://wakatime.com/share/@a124cb58-405f-40c8-a801-6033e54c1f7d/87a5a3c8-93c6-4b6d-baa8-b0f8f43d56d2.svg"></embed></figure>
+
 <!---
 DiegoGerwig/DiegoGerwig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
