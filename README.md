@@ -10,7 +10,7 @@
 
 ![diegogerwig's Stats](https://github-readme-stats.vercel.app/api?username=diegogerwig&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
-![wakatime](<figure><embed src="https://wakatime.com/share/@a124cb58-405f-40c8-a801-6033e54c1f7d/ad451f54-b4fb-4ead-bf83-ec661409266a.svg"></embed></figure>)
+<figure><embed src="https://wakatime.com/share/@a124cb58-405f-40c8-a801-6033e54c1f7d/ad451f54-b4fb-4ead-bf83-ec661409266a.svg"></embed></figure>
 
 <!---
 DiegoGerwig/DiegoGerwig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
