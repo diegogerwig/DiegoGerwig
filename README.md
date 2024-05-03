@@ -1,4 +1,4 @@
-![image](fondo.png)
+![image](fondo.jpg)
 
 - 👋 Hi, I’m @diegogerwig
 - 👀 I’m interested in 🖥 🐶 🚲 🏗 🔭
