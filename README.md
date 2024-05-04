@@ -2,6 +2,7 @@
 
 - 👋 Hi, I’m @diegogerwig
 - 👀 I’m interested in 🖥 🐶 🚲 🏗 🔭
+- 🌐 You can visit my CV at [https://www.example.com](https://diegogerwig.github.io/cv/)
 
 ---
 
