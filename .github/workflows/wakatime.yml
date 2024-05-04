@@ -1,0 +1,16 @@
+name: Waka Stats Readme
+
+on:
+  schedule:
+    # Runs every 1 hour
+    - cron: '* */1 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: diegogerwig/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
