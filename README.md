@@ -6,8 +6,6 @@
 
 ![diegogerwig's Stats](https://github-readme-stats.vercel.app/api?username=diegogerwig&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
-![image](https://wakatime.com/share/@diegogerwig/dac2c4ca-c077-419a-b2ec-ad836969b8e9.svg)
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
