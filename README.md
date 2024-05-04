@@ -2,6 +2,9 @@
 - 👀 I’m interested in 🖥 🐶 🚲 🏗 🔭
 - 📫 How to reach me diegogerwig@gmail.com
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![diegogerwig's Streak](https://github-readme-streak-stats.herokuapp.com/?user=diegogerwig&theme=vue-dark&hide_border=false)
 
 
