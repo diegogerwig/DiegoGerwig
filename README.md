@@ -1,7 +1,7 @@
 ## **😊 About me**
 
-👋 Hi, I’m @diegogerwig
-👀 I’m interested in 🖥 🐶 🚲 🏗 🔭
+- 👋 Hi, I’m @diegogerwig
+- 👀 I’m interested in 🖥 🐶 🚲 🏗 🔭
 
 
 ---
