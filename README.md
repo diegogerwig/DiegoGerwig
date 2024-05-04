@@ -10,13 +10,13 @@
 <div align="center" style="text-align:center">
     <a href="mailto:diegogerwig@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
-            alt="Gmail">
+            alt="diegogerwig@gmail.com">
     </a>
     <a href="https://wakatime.com/@diegogerwig/">
         <img src="https://img.shields.io/badge/-WakaTime-c14430?style=for-the-badge&logo=Wakatime&logoColor=white@Josee9988&color=green"
             alt="Wakatime">
     </a>
-    <a href="https://www.linkedin.com/in/diegogerwig/">
+    <a href="https://www.linkedin.com/in/diego-gerwig-lópez-28a1ab86/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="LinkedIn">
     </a>
@@ -26,10 +26,6 @@
 
 ## **📊 Stats**
 
-
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 <div align="center" style="text-align:center">
     <a href="">
         <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=diegogerwig&theme=vue-dark&hide_border=false">
