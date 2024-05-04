@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @diegogerwig
 - 👀 I’m a CIVIL ENGINEER interested in 🖥 🏗 🔭
-- 🌐 You can explor my CV at [https://www.diegogerwig.github.io/cv/](https://diegogerwig.github.io/cv/)
+- 🌐 You can explore my CV at [diegogerwig.github.io/cv/](https://diegogerwig.github.io/cv/)
 
 ---
 
@@ -21,7 +21,6 @@
         <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
             alt="diegogerwig@gmail.com">
     </a>
-
 </div>
 
 ---
