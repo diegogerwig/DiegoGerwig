@@ -29,29 +29,20 @@
 
 <div align="center" style="text-align:center">
     <a href="">
-        <img width="60%" 
+        <img width="50%" 
             src="https://github-readme-streak-stats.herokuapp.com/?user=diegogerwig&theme=vue-dark&hide_border=false">
     </a>
     <a href="">
-        <img width="60%" 
+        <img width="50%" 
             src="https://github-readme-stats.vercel.app/api?username=diegogerwig&theme=vue-dark&show_icons=true&hide_border=false&count_private=true">
     </a>
     <a href="">
-        <img width="60%" 
+        <img width="50%" 
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegogerwig&theme=vue-dark&show_icons=true&hide_border=false&layout=compact">
     </a>
     <a href="https://wakatime.com/@diegogerwig">
-        <img width="80%" 
+        <img width="60%" 
             src="https://github-readme-stats.vercel.app/api/wakatime?username=diegogerwig&hide_progress=false&layout=compact&custom_title=WAKATIME%20last%20year%20📈%Stats"
             alt="Diego Gerwig's WAKATIME last year 📈 stats">
-    </a>
-    <a href="https://wakatime.com/@diegogerwig">
-        <img width="80%" 
-            src="https://github-readme-stats.vercel.app/api/wakatime?username=)"
-            alt="Diego Gerwig's WAKATIME last year 📈 stats">
-    </a>
-
-
-
-    
+    </a>   
 </div>
