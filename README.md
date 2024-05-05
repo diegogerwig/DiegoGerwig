@@ -42,7 +42,7 @@
     </a>
     <a href="https://wakatime.com/@diegogerwig">
         <img width="60%" 
-            src="https://github-readme-stats.vercel.app/api/wakatime?username=diegogerwig&hide_progress=false&custom_title=WAKATIME%20last%20month%20📈%Stats"
+            src="https://github-readme-stats.vercel.app/api/wakatime?username=diegogerwig&hide_progress=true&custom_title=WAKATIME%20last%20month%20📈%Stats"
             alt="Diego Gerwig's WAKATIME last year 📈 stats">
     </a>   
     <a href="https://wakatime.com/@diegogerwig">
