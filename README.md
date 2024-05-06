@@ -26,7 +26,7 @@
 ---
 
 <details>
-  <summary>## **📊 Stats**</summary>
+
 
 
 ## **📊 Stats**
