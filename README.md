@@ -38,7 +38,7 @@
     </a>
     <a href="">
         <img width="50%" 
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegogerwig&theme=vue-dark&show_icons=true&hide_border=false&layout=compact">
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegogerwig&theme=vue-dark&show_icons=true&hide_border=false">
     </a>
     <a href="https://wakatime.com/@diegogerwig">
         <img width="50%" 
