@@ -26,7 +26,7 @@
 ---
 
 <details>
-
+  <summary>:zap: Stats</summary>
 
 
 ## **📊 Stats**
