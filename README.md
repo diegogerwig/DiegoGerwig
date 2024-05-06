@@ -25,6 +25,10 @@
 
 ---
 
+<details>
+  <summary>:zap: Github Stats</summary>
+
+
 ## **📊 Stats**
 
 <div align="center" style="text-align:center">
@@ -46,3 +50,4 @@
             alt="Diego Gerwig's WAKATIME last year 📈 stats">
     </a>   
 </div>
+</details>
