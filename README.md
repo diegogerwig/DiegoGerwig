@@ -24,9 +24,8 @@
 </div>
 
 ---
-
-## **📊 Stats**
 <details>
+## **📊 Stats**
     <summary> </summary>
         <div align="center" style="text-align:center">
             <a href="">
