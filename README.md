@@ -27,6 +27,7 @@
 
 ## **📊 Stats** 
 <details>
+    <summary> 🔎 </summary>
      <div align="center" style="text-align:center">
         <a href="">
             <img width="50%" 
