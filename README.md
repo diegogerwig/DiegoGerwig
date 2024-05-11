@@ -53,6 +53,6 @@
         </a>   
         <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Diego Gerwig's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=diegogerwig&hide_border=false&theme=github-dark-dimmed" />
         </a>
-        ![Actividad de Codificación](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/diegogerwig/diegogerwig/master/coding_activity.json)
+        [![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegogerwig)](https://github.com/diegogerwig)
     </div>
 </details>
