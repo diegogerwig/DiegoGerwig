@@ -1,4 +1,4 @@
-# **😊 About me**
+# **💻 About me**
 
 - 👋 Hi, I’m @diegogerwig
 - 👀 I’m a CIVIL ENGINEER interested in 🖥 🏗 🔭
@@ -52,6 +52,10 @@
                 alt="Diego Gerwig's WAKATIME last year 📈 stats">
         </a>   
         <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Diego Gerwig's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=diegogerwig&hide_border=false&theme=github-dark-dimmed" />
+        </a>
+        <a href="">
+            <img width="50%" 
+                src="https://raw.githubusercontent.com/diegogerwig/github-stats-transparent/output/generated/overview.svg&theme=vue-dark&show_icons=true&hide_border=false&count_private=true">
         </a>
         ![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
         ![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
