@@ -57,10 +57,7 @@
             <img width="50%" 
                 src="https://raw.githubusercontent.com/diegogerwig/github-stats-transparent/output/generated/overview.svg">
         </a>
-
     </div>
 </details>
 
-
-![](https://raw.githubusercontent.com/diegogerwig/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/diegogerwig/github-stats/master/generated/languages.svg#gh-light-mode-only)
+[![Diego's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=diegogerwig)](https://github.com/diegogerwig)
