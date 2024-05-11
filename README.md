@@ -61,3 +61,5 @@
 </details>
 
 [![Diego's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=diegogerwig)](https://github.com/diegogerwig)
+[![Diego's daily wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=diegogerwig&range=last_30_days)](https://github.com/diegogerwig)
+
