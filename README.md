@@ -51,24 +51,7 @@
                 src="https://github-readme-stats.vercel.app/api/wakatime?username=diegogerwig&hide_progress=false&layout=compact&custom_title=WAKATIME%20last%20year%20📈%Stats&hide_border=false&theme=vue-dark"
                 alt="Diego Gerwig's WAKATIME last year 📈 stats">
         </a>   
-        <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Diego Gerwig's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=diegogerwig&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
+        <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Diego Gerwig's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=diegogerwig&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false&theme=vue-dark" />
         </a>
     </div>
 </details>
-
-
-<!--
-<a href="https://wakatime.com/@codeserk">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=codeserk&theme=dracula&show_icons=ture"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=codeserk&theme=dracula&show_icons=ture"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=codeserk" />
-</picture>
-</a>
--->
