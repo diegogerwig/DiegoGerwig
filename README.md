@@ -59,9 +59,3 @@
         </a>
     </div>
 </details>
-
-[![Diego's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=diegogerwig)](https://github.com/diegogerwig)
-
-<figure><embed src="https://wakatime.com/share/@diegogerwig/947c0f19-886a-4dcf-9ebf-089ea9fff24d.svg"></embed></figure>
-
-
