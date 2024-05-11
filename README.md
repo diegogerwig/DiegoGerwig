@@ -51,7 +51,7 @@
                 src="https://github-readme-stats.vercel.app/api/wakatime?username=diegogerwig&hide_progress=false&layout=compact&custom_title=WAKATIME%20last%20year%20📈%Stats&hide_border=false&theme=vue-dark"
                 alt="Diego Gerwig's WAKATIME last year 📈 stats">
         </a>   
-        <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Diego Gerwig's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=diegogerwig&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false&theme=github-dark-dimmed" />
+        <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Diego Gerwig's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=diegogerwig&hide_border=false&theme=github-dark-dimmed" />
         </a>
     </div>
 </details>
