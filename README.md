@@ -61,5 +61,6 @@
     </div>
 </details>
 
-![Stats Overview](https://raw.githubusercontent.com/diegogerwig/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/diegogerwig/github-stats-transparent/output/generated/languages.svg)
+
+![](https://raw.githubusercontent.com/diegogerwig/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/diegogerwig/github-stats/master/generated/languages.svg#gh-light-mode-only)
