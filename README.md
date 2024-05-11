@@ -53,7 +53,7 @@
         </a>   
         <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Diego Gerwig's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=diegogerwig&hide_border=false&theme=github-dark-dimmed" />
         </a>
-        ![Actividad de Codificación Diaria](https://img.shields.io/endpoint?url=https://github-readme-stats.vercel.app/api?username=diegogerwig&show_icons=true&theme=radical)
-
+        ![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+        ![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
     </div>
 </details>
