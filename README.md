@@ -1,4 +1,4 @@
-# **💻 About me**
+# **👤 About me**
 
 - 👋 Hi, I’m @diegogerwig
 - 👀 I’m a CIVIL ENGINEER interested in 🖥 🏗 🔭
