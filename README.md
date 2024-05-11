@@ -48,7 +48,7 @@
         </a>
         <a href="https://wakatime.com/@diegogerwig">
             <img width="50%" 
-                src="https://github-readme-stats.vercel.app/api/wakatime?username=diegogerwig&hide_progress=false&layout=compact&custom_title=WAKATIME%20last%20year%20📈%Stats&hide_border=false&theme=vue-dark-dimmed"
+                src="https://github-readme-stats.vercel.app/api/wakatime?username=diegogerwig&hide_progress=false&layout=compact&custom_title=WAKATIME%20last%20year%20📈%Stats&hide_border=false&theme=vue-dark"
                 alt="Diego Gerwig's WAKATIME last year 📈 stats">
         </a>   
         <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Diego Gerwig's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=diegogerwig&hide_border=false&theme=github-dark-dimmed" />
