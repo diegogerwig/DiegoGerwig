@@ -8,9 +8,6 @@
 
 ## **📫 How to reach me**
 
-<p align="center" >
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
-</p>
 <div align="center" style="text-align:center">
     <a href="https://www.linkedin.com/in/diego-gerwig-lópez-28a1ab86/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -25,9 +22,7 @@
             alt="diegogerwig@gmail.com">
     </a>
 </div>
-<p align="center" >
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
-</p>
+
 
 ---
 
@@ -53,5 +48,8 @@
         </a>   
         <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Diego Gerwig's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=diegogerwig&hide_border=false&theme=github-dark-dimmed" />
         </a>
+        <p align="center" >
+            <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
+        </p>
     </div>
 </details>
