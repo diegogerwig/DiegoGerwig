@@ -25,7 +25,7 @@
 ---
 
 <details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <summary><h2>🛠️ Tools & Skills </h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -67,7 +67,7 @@
 ---
 
 <details>
-  <summary><h2>📊 Stats and Activity</h2></summary>
+  <summary><h2>📊 Stats & Activity</h2></summary>
      <div align="center" style="text-align:center">
         <a href="">
             <img width="50%" 
