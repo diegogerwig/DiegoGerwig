@@ -9,7 +9,7 @@
 ## **📫 How to reach me**
 
 <div align="center" style="text-align:center">
-    <a href="https://www.linkedin.com/in/diego-gerwig-lópez-28a1ab86/">
+    <a href="https://www.linkedin.com/in/diegogerwig/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="https://wakatime.com/@diegogerwig">
