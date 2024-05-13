@@ -22,6 +22,12 @@
     </a>
 </div>
 
+ <p align="center">
+      <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:4px">
+      <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/wakatime.svg" alt="wakatime" style="vertical-align:top; margin:4px">
+      <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/gmail.svg" alt="gmail" style="vertical-align:top; margin:4px">
+  </p>
+
 ---
 
 <details> 
