@@ -10,8 +10,7 @@
 
 <div align="center" style="text-align:center">
     <a href="https://www.linkedin.com/in/diego-gerwig-lópez-28a1ab86/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="https://wakatime.com/@diegogerwig">
         <img src="https://img.shields.io/badge/-WakaTime-c14430?style=for-the-badge&logo=Wakatime&logoColor=white@Josee9988&color=green"
