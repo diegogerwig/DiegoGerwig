@@ -23,15 +23,18 @@
 </div>
 <div align="center" style="text-align:center;">
     <a href="https://linkedin.com/in/diego-gerwig-lópez-28a1ab86">
-        <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
+        <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" 
+            alt="Linkedin Badge">
+    </a>
+    <a href="https://wakatime.com/@diegogerwig">
+        <img src="https://img.shields.io/badge/-WakaTime-c14430?style=for-the-badge&logo=Wakatime&logoColor=white@Josee9988&color=green"
+            alt="Wakatime">
+    </a>
+    <a href="mailto:diegogerwig@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
+            alt="diegogerwig@gmail.com">
     </a>
 </div>
-
-<div style="display: flex; justify-content: center;">
-    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/diego-gerwig-lópez-28a1ab86)
-</div>
-| <center>[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/diego-gerwig-lópez-28a1ab86)</center> |
-|---|
 
 ---
 
