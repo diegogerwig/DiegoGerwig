@@ -21,7 +21,6 @@
             alt="diegogerwig@gmail.com">
     </a>
 </div>
-
 <div style="display: flex; justify-content: center;">
     [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/diego-gerwig-lópez-28a1ab86)
 </div>
