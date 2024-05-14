@@ -48,7 +48,6 @@
       <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
       <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
       <a href="#"><img alt="Data Science" src="https://img.shields.io/badge/Data%20Science-333333.svg?"></a>
-      <a href="#"><img alt="Data_Bases" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   </p>
 
   <h3>💻 Software and Tools</h3>
