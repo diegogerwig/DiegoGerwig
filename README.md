@@ -9,16 +9,8 @@
 ## **📫 How to reach me**
 
 <div align="center" style="text-align:center">
-    <a href="https://www.linkedin.com/in/diegogerwig/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://www.linkedin.com/in/diegogerwig"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white" style="width: 200px; height: 50px;></a>
-    <span style="margin: 0 10px;">&nbsp;</span>
-    <a href="https://wakatime.com/@diegogerwig"><img alt="Wakatime" src="https://img.shields.io/badge/Wakatime-2496ED.svg?logo=wakatime&logoColor=white&color=green" style="width: 200px; height: 50px;></a>
-    <a href="https://wakatime.com/@diegogerwig">
-        <img src="https://img.shields.io/badge/-WakaTime-c14430?style=for-the-badge&logo=Wakatime&logoColor=white@diegogerwig&color=green"
-            alt="Wakatime">
-    </a>
+    <a href="https://www.linkedin.com/in/diegogerwig" style="padding-right: 10px;><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white" style="width: 200px; height: 50px;></a>
+    <a href="https://wakatime.com/@diegogerwig" style="padding-right: 10px;><img alt="Wakatime" src="https://img.shields.io/badge/Wakatime-2496ED.svg?logo=wakatime&logoColor=white&color=green" style="width: 200px; height: 50px;></a>
     <a href="mailto:diegogerwig@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
             alt="diegogerwig@gmail.com">
