@@ -25,7 +25,7 @@
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
-      <a href="https://github.com/search?q=user%3Adiegogerwig+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" style="height: 20px;"></a>
+      <a href="https://github.com/search?q=user%3Adiegogerwig+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" style="height: 30px;"></a>
       <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
       <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
       <a href="#"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
@@ -47,6 +47,7 @@
       <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-3776AB.svg?logo=matplotlib&logoColor=white"></a>
       <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
       <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+      <a href="#"><img alt="Bases de Datos" src="https://img.shields.io/badge/Bases%20de%20Datos-003B57.svg?&logo=databasedotcom&logoColor=white"></a>
   </p>
 
   <h3>💻 Software and Tools</h3>
