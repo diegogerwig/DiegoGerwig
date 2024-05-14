@@ -46,8 +46,6 @@
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
       <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
       <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-      <a href="#"><img alt="Data Science" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sql&logoColor=white"></a>
-
   </p>
 
   <h3>💻 Software and Tools</h3>
@@ -59,10 +57,7 @@
       <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-      <a href="https://qiskit.org/"><img alt="Qiskit" src="https://img.shields.io/badge/Qiskit-000000.svg?logo=qiskit&logoColor=white"></a>
-      <a href="https://www.microsoft.com/en-us/research/project/classiq-programmable-quantum-computing/" target="_blank" rel="noopener noreferrer"><img alt="Classiq" src="https://img.shields.io/badge/Classiq-004687?style=for-the-badge&logo=microsoft&logoColor=white"></a>
-
-
+      <a href="#"><img alt="Qiskit" src="https://img.shields.io/badge/Qiskit-000000.svg?logo=qiskit&logoColor=white"></a>
   </p>
 </details>
 
