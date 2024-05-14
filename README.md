@@ -12,8 +12,9 @@
     <a href="https://www.linkedin.com/in/diegogerwig/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
+    <a href="https://www.linkedin.com/in/diegogerwig"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white"></a>
     <a href="https://wakatime.com/@diegogerwig">
-        <img src="https://img.shields.io/badge/-WakaTime-c14430?style=for-the-badge&logo=Wakatime&logoColor=white@Josee9988&color=green"
+        <img src="https://img.shields.io/badge/-WakaTime-c14430?style=for-the-badge&logo=Wakatime&logoColor=white@diegogerwig&color=green"
             alt="Wakatime">
     </a>
     <a href="mailto:diegogerwig@gmail.com">
