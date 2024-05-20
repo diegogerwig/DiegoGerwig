@@ -23,7 +23,7 @@
     <h3>42 Network</h3>
         <div style='display: flex; flex-direction: column; align-items: center;'>
             <a href='https://www.42network.org/about-us/' target='_blank'>
-                <img src='./_badges/42_Common_Core.jpg' width='500'>
+                <img src='./_badges/42_Common_Core.png' width='500'>
             </a>
         </div>
     <h3>QClass 2023-2024</h3>
