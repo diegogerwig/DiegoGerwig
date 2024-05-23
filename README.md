@@ -23,7 +23,7 @@
     <h3>42 Network</h3>
         <div style='display: flex; flex-direction: column; align-items: center;'>
             <a href='https://www.credly.com/org/42/badge/42-cursus-junior-developer-level-11' target='_blank'>
-                <img src='./_badges/Bagde_42_level_11.png' width='300'>
+                <img src='./_badges/42_level_11.png' width='300'>
             </a>
         </div>
     <h3>QClass 2023-2024</h3>
