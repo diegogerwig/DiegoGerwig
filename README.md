@@ -23,7 +23,7 @@
     <h3>42 Network</h3>
         <div style='display: flex; flex-direction: column; align-items: center;'>
             <a href='https://www.credly.com/org/42/badge/42-cursus-junior-developer-level-11' target='_blank'>
-                <img src='./_badges/42_level_11.png' width='300'>
+                <img src='./_badges/42_level_11.png' width='250'>
             </a>
         </div>
     <h3>QClass 2023-2024</h3>
@@ -35,7 +35,7 @@
     <h3>Quantum Explorers 2023</h3>
     <div style='display: flex; flex-direction: column; align-items: center;'>
         <a href='https://www.credly.com/badges/1dfa6b06-c443-4d56-b6e8-3375dd7ad03b/linked_in_profile' target='_blank'>
-            <img src='./_badges/quantum-explorer-2023-advanced.png' width='200' style='margin-bottom: 10px;'>
+            <img src='./_badges/quantum-explorer-2023-advanced.png' width='200'>
         </a>
     </div>
     <h3>Summer School 2023</h3>
