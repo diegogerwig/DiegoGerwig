@@ -6,10 +6,6 @@
 
 ---
 
-
-
-
-
 ## **📫 How to reach me**
 
 <div style='text-align:left'>
