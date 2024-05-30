@@ -26,7 +26,7 @@
                 <img src='./_badges/42_level_11.png' width='250'>
             </a>
         </div>
-    <h3>QClass 2023-2024</h3>
+    <h3>Quantum Computing QClass 2023-2024</h3>
         <div style='display: flex; flex-direction: column; align-items: center;'>
             <a href='./_badges/QCourse501-1-214_Certificate.jpg' target='_blank'>
                 <img src='./_badges/QCourse501-1-214_Badge.jpg' width='300'>
