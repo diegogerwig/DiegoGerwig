@@ -81,6 +81,7 @@
       <a href='#'><img alt='Tableau' src='https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white' height='20'></a>
       <a href='#'><img alt='Mongo DB' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' height='20'></a>
       <a href='#'><img alt='SQLite' src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white' height='20'></a>
+      <a href='#'><img alt='SnowFlake' src='https://a11ybadges.com/badge?logo=snowflake' height='20'></a>
   </p>
 
   <h3>💻 Software and Tools</h3>
