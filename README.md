@@ -76,7 +76,7 @@
       <a href='#'><img alt='Matplotlib' src='https://img.shields.io/badge/Matplotlib-3776AB.svg?logo=python&logoColor=white' height='25'></a>
       <a href='#'><img alt='Pytest' src='https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white' height='25'></a>
       <a href='#'><img alt='TensorFlow' src='https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white' height='25'></a>
-      <a href='#'><img alt='Data Science' src='https://img.shields.io/badge/Data%20Science-333333.svg?' height='20'></a>
+      <a href='#'><img alt='Data Science' src='https://img.shields.io/badge/Data%20Science-333333.svg?' height='25'></a>
       <a href='#'><img alt='Power BI' src='https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black' height='25'></a>
       <a href='#'><img alt='Tableau' src='https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white' height='25'></a>
       <a href='#'><img alt='Mongo DB' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' height='25'></a>
