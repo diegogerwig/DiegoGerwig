@@ -13,7 +13,6 @@
     <a href='https://wakatime.com/@diegogerwig' style='padding: 10px;'><img alt='Wakatime' src='https://img.shields.io/badge/Wakatime-2496ED.svg?logo=wakatime&logoColor=white&color=green' style='height: 25px;'></a>
     <a href='https://www.hackerrank.com/diegogerwig' style='padding: 10px;'><img alt='Hackerrank' src='https://img.shields.io/badge/Hackerrank-2EC866.svg?logo=hackerrank&logoColor=white' style='height: 25px;'></a>
     <a href='https://www.kaggle.com/diegogerwig' style='padding: 10px;'><img alt='Kaggle' src='https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=kaggle&logoColor=white' style='height: 25px;'></a>
-    <a href='mailto:diegogerwig@gmail.com' style='padding: 10px;'><img alt='Gmail' src='https://img.shields.io/badge/Gmail-EA4335.svg?logo=gmail&logoColor=white' style='height: 25px;'></a>
     <a href="mailto:diegogerwig@gmail.com" style="padding: 10px;">
         <img alt="diegogerwig@gmail.com" src="https://img.shields.io/badge/diegogerwig@gmail.com-EA4335.svg?logo=gmail&logoColor=white" style="height: 25px;">
     </a>
