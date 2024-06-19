@@ -1,7 +1,7 @@
 # **✨ About me**
 
-- 👋 Hi, I’m @diegogerwig
-- 👀 I’m a CIVIL ENGINEER interested in 🖥 🏗 🔭
+- 👋 Hi, I’m Diego Gerwig
+- 👀 I’m a CIVIL ENGINEER interested in 🖥 🏗 🐶
 - 🌐 You can explore my CV at [diegogerwig.github.io/cv/](https://diegogerwig.github.io/cv/)
 
 ---
