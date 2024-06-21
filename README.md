@@ -4,7 +4,6 @@
 - 👀 I’m a CIVIL ENGINEER interested in 🖥 🏗 🐶
 - 🌐 You can explore my CV at [diegogerwig.github.io/cv/](https://diegogerwig.github.io/cv/)
 
-
 ---
 
 ## **📫 How to reach me**
