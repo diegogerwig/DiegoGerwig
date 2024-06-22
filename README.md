@@ -21,7 +21,7 @@
 ---
 
 <details> 
-    <summary><h2>🏆 Badges & Achievements </h2></summary>
+    <summary><h2>🏆 Licenses & Certifications </h2></summary>
     <h3>42 Network</h3>
         <div style='display: flex; flex-direction: column; align-items: center;'>
             <a href='https://www.credly.com/org/42/badge/42-cursus-junior-developer-level-11' target='_blank'>
