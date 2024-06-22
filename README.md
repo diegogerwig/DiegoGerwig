@@ -34,6 +34,11 @@
                 <img src='./_badges/QCourse501-1-214_Badge.jpg' width='300'>
             </a>
         </div>
+        <div style='display: flex; flex-direction: column; align-items: center;'>
+            <a href='./_badges/QCourse504-1-91_Certificate.jpg' target='_blank'>
+                <img src='./_badges/QCourse504-1-91_Badge.jpg' width='300'>
+            </a>
+        </div>
     <h3>IBM Quantum Challenge 2024</h3>
         <div style='display: flex; flex-direction: column; align-items: center;'>
             <a href='https://www.credly.com/badges/7fce96fb-09f9-48c6-9f7c-d5118c3b9412' target='_blank'>
