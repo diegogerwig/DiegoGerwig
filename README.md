@@ -33,8 +33,8 @@
             <a href='./_badges/QCourse501-1-214_Certificate.jpg' target='_blank'>
                 <img src='./_badges/QCourse501-1-214_Badge.jpg' width='300'>
             </a>
-        </div>
-        <div style='display: flex; flex-direction: column; align-items: center;'>
+        <!-- </div>
+        <div style='display: flex; flex-direction: column; align-items: center;'> -->
             <a href='./_badges/QCourse504-1-91_Certificate.jpg' target='_blank'>
                 <img src='./_badges/QCourse504-1-91_Badge.jpg' width='300'>
             </a>
