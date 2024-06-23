@@ -89,8 +89,8 @@
       <a href='#'><img alt='Power BI' src='https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black' height='25'></a>
       <a href='#'><img alt='Tableau' src='https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white' height='25'></a>
       <a href='#'><img alt='Mongo DB' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' height='25'></a>
-      <a href='#'><img alt='SQLite' src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white' height='25'></a>
-      <a href='#' class='badge'><img alt='SnowFlake' src='https://a11ybadges.com/badge?logo=snowflake' height='25'></a>
+      <a href='#'><img alt='SQLite' src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white' height='100'></a>
+      <a href='#' class='badge'><img alt='SnowFlake' src='https://a11ybadges.com/badge?logo=snowflake' height='100'></a>
   </p>
 
   <h3>💻 Software and Tools</h3>
