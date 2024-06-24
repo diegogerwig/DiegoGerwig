@@ -8,12 +8,6 @@
 
 ## **📫 How to reach me**
 
-<style>
-    .badge img {
-        border-radius: 8px;
-    }
-</style>
-
 <div style='text-align:left'>
     <a href='https://www.linkedin.com/in/diegogerwig' style='padding: 10px;'><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white' style='height: 25px;'></a>
     <a href='https://wakatime.com/@diegogerwig' style='padding: 10px;'><img alt='Wakatime' src='https://img.shields.io/badge/Wakatime-2496ED.svg?logo=wakatime&logoColor=white&color=green' style='height: 25px;'></a>
@@ -90,7 +84,7 @@
       <a href='#'><img alt='Tableau' src='https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white' height='25'></a>
       <a href='#'><img alt='Mongo DB' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' height='25'></a>
       <a href='#'><img alt='SQLite' src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white' height='25'></a>
-      <a href='#' class='badge'><img alt='SnowFlake' src='https://a11ybadges.com/badge?logo=snowflake' height='25'></a>
+      <a href='#'><img alt='SnowFlake' src='https://a11ybadges.com/badge?logo=snowflake' height='25'></a>
   </p>
 
   <h3>💻 Software and Tools</h3>
