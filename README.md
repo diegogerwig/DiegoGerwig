@@ -16,9 +16,6 @@
     <a href="mailto:diegogerwig@gmail.com" style="padding: 10px;"><img alt="diegogerwig@gmail.com" src="https://img.shields.io/badge/diegogerwig@gmail.com-EA4335.svg?logo=gmail&logoColor=white" style="height: 25px;"></a>
 </div>
 
-
-
-
 ---
 
 <details> 
