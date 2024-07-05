@@ -113,7 +113,12 @@
 
 <details>
   <summary><h2>📊 Stats & Activity</h2></summary>
-     <div align='center' style='text-align:center'>
+    <div align="center">
+        <img src="https://komarev.com/ghpvc/?username=diegogerwig&&style=plastic" align="center" />
+        <img alt="wakatime" src="https://wakatime.com/badge/user/79c45553-0ad1-41d2-9b21-4d5284c6ae95.svg" align="center" />
+        <img alt="github" src="https://img.shields.io/github/followers/Sanni-Damilola?logo=github&style=plastic" align="center"/>
+    </div>
+    <div align='center' style='text-align:center'>
         <a href=''>
             <img width='50%' 
                 src='https://github-readme-streak-stats.herokuapp.com/?user=diegogerwig&theme=vue-dark&hide_border=false'>
