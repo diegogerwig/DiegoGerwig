@@ -107,7 +107,7 @@
 
 <details>
   <summary><h2>📊 Stats & Activity</h2></summary>
-    <div align="left">
+    <div align='center'>
         <img src="https://komarev.com/ghpvc/?username=diegogerwig&&style=plastic" align="center" />
         <img alt="wakatime" src="https://wakatime.com/badge/user/a124cb58-405f-40c8-a801-6033e54c1f7d.svg" align="center" />
         <img alt="github" src="https://img.shields.io/github/followers/diegogerwig?logo=github&style=plastic" align="center"/>
