@@ -121,8 +121,9 @@
                 src='https://github-readme-stats.vercel.app/api/top-langs/?username=diegogerwig&theme=vue-dark&show_icons=true&hide_border=false&layout=compact'>
         </a>
         <br>
+        <br>
         <a href='https://wakatime.com/@diegogerwig'>
-            <img width='20%'
+            <img width='30%'
                 src="https://wakatime.com/badge/user/a124cb58-405f-40c8-a801-6033e54c1f7d.svg">
         </a>
         <br>
