@@ -122,9 +122,10 @@
         </a>
         <br>
         <a href='https://wakatime.com/@diegogerwig'>
-            <img width='25%'
+            <img width='20%'
                 src="https://wakatime.com/badge/user/a124cb58-405f-40c8-a801-6033e54c1f7d.svg">
         </a>
+        <br>
         <a href='https://wakatime.com/@diegogerwig'>
             <img width='50%' 
                 src='https://github-readme-stats.vercel.app/api/wakatime?username=diegogerwig&hide_progress=false&layout=compact&custom_title=WAKATIME%20last%20year%20📈%Stats&hide_border=false&theme=vue-dark'
