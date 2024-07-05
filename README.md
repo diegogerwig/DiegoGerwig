@@ -107,12 +107,6 @@
 
 <details>
   <summary><h2>📊 Stats & Activity</h2></summary>
-    <div align='center'>
-        <img src="https://komarev.com/ghpvc/?username=diegogerwig&&style=plastic" align="center" />
-        <img alt="wakatime" src="https://wakatime.com/badge/user/a124cb58-405f-40c8-a801-6033e54c1f7d.svg" align="center" />
-        <img alt="github" src="https://img.shields.io/github/followers/diegogerwig?logo=github&style=plastic" align="center"/>
-    </div>
-    <br>
     <div align='center' style='text-align:center'>
         <a href=''>
             <img width='50%' 
@@ -126,6 +120,7 @@
             <img width='50%' 
                 src='https://github-readme-stats.vercel.app/api/top-langs/?username=diegogerwig&theme=vue-dark&show_icons=true&hide_border=false&layout=compact'>
         </a>
+        <img alt="wakatime" src="https://wakatime.com/badge/user/a124cb58-405f-40c8-a801-6033e54c1f7d.svg" align="center" />
         <a href='https://wakatime.com/@diegogerwig'>
             <img width='50%' 
                 src='https://github-readme-stats.vercel.app/api/wakatime?username=diegogerwig&hide_progress=false&layout=compact&custom_title=WAKATIME%20last%20year%20📈%Stats&hide_border=false&theme=vue-dark'
