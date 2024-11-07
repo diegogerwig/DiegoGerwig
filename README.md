@@ -1,7 +1,10 @@
 # **✨ About me**
 
-- 👋 Hi, I’m Diego Gerwig
-- 👀 I’m a CIVIL ENGINEER interested in 🖥 🏗 🐶
+👋 Hi, I’m Diego Gerwig
+🦺 Civil Engineer specialized in Software Development and Data Science. 
+💻 Experienced in integrating digital solutions into engineering projects, I lead digital transformation initiatives with agile methodologies and data analysis. 
+📊 My approach combines precision and technological innovation to develop scalable, efficient systems.
+
 
 ---
 
