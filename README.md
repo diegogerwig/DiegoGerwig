@@ -24,9 +24,9 @@
 ---
 
 ## **🛠️ Tools & Skills**
-<img height="20" src="https://cdn.simpleicons.org/github?viewbox=auto" />
-<img height="30" src="https://cdn.simpleicons.org/assemblyscript?viewbox=auto" />
-<img height="40" src="https://cdn.simpleicons.org/3M?viewbox=auto/[DARK_MODE_COLOR]" />
+<img alt='C++' height="20" src="https://cdn.simpleicons.org/github/white?viewbox=auto" />
+<img alt='C+ljh+' height="30" src="https://cdn.simpleicons.org/assemblyscript?viewbox=auto" />
+<img alt='C++ll'height="40" src="https://cdn.simpleicons.org/3M?viewbox=auto/[DARK_MODE_COLOR]" />
 ![My Skills]([https://simpleskill.icons.workers.dev/svg]?i=react,node.js,docker,mongodb,postgresql,awslambda,adobexd,angular)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,surrealdb,actix,yew&titles=true)
