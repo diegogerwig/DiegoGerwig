@@ -24,20 +24,10 @@
 ---
 
 ## **🛠️ Tools & Skills**
-<a><img alt='GitHub' height="40" src="https://cdn.simpleicons.org/github/white?viewbox=auto" style="background-color: #f0f0f0; border-radius: 5px; padding: 3px;" title="GitHub"/></a>
-<a><img alt='GitHub' height="40" src="https://cdn.simpleicons.org/github/black?viewbox=auto" style="background-color: #f0f0f0; border-radius: 5px; padding: 3px;" title="GitHub"/></a>
-<a><img alt='GitHub' height="40" src="https://cdn.simpleicons.org/github/white?viewbox=auto" style="background-color: #f0f0f0; border-radius: 5px; padding: 3px; border: 3px solid #d0d0d0;" title="GitHub"/></a>
-<a><img alt='GitHub' height="40" src="https://cdn.simpleicons.org/github/white" style="box-shadow: 0 0 3px #d0d0d0; border-radius: 5px; padding: 3px; background: #f5f5f5;" title="GitHub"/></a>
-<a href="https://github.com">
-  <img alt="GitHub" height="40" src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white"/>
-</a>
-<a href="https://github.com">
-  <img alt="GitHub" height="40" src="https://img.shields.io/badge/-github?style=flat&logo=github&logoColor=white&color=black"/>
-</a>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,c,c++,assembly,bash&titles=true)
+##### **LANGUAGES:**![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,assembly,bash&titles=true)
 
-**LANGUAGES:** <br><br> [![Python, C, C++, Assembly, Bash](https://skillicons.dev/icons?i=python,c,c++,assembly,bash)](https://skillicons.dev) <br><br>
+**LANGUAGES:** <br><br> [![Python, C, C++, Assembly, Bash](https://skillicons.dev/icons?i=python,c,cpp,assembly,bash)](https://skillicons.dev) <br><br>
 **DATA SCIENCE:** <br><br> [![R, SQL, MATLAB, STATA](https://skillicons.dev/icons?i=r,sql,matlab,stata)](https://skillicons.dev) <br><br>
 **DATABASES:** <br><br> [![MySQL, PostgreSQL, MongoDB](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev) <br><br>
 **WEB:** <br><br> [![HTML, CSS, JS, TS, Bootstrap](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind)](https://skillicons.dev) <br><br>
