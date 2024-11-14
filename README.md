@@ -27,7 +27,15 @@
 
 <h3 align="left">LANGUAGES</h3>
 	<p align="left">
-		<img src="https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,assembly,bash&theme=dark" />
+		<a href='https://github.com/search?q=user%3Adiegogerwig+language%3Apython'><img alt='Python' src='https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white' height='40'></a>
+	  	<a href='#'><img alt='C' src='https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white' height='40'></a>
+	  	<a href='#'><img alt='C++' src='https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white' height='40'></a>
+	  	<a href='#'><img alt='MIPS Assembly' src='https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white' height='40'></a>
+	  	<a href='#'><img alt='Bash' src='https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white' height='40'></a>
+	  	<a href='#'><img alt='Google Apps Script' src='https://custom-icon-badges.demolab.com/badge/Google%20Apps%20Script-02569B.svg?logo=gs&logoColor=white' height='40'></a>
+	  	<a href='#'><img alt='Markdown' src='https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white' height='40'></a>
+	  	<a href='#'><img alt='LaTeX' src='https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white' height='40'></a>
+		<!-- <img src="https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,assembly,bash&theme=dark" /> -->
 	</p>
 
 <h3 align="left">DATA SCIENCE</h3>
