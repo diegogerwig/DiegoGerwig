@@ -106,6 +106,10 @@
 		<a href="https://leetcode.com/u/jorge-lopz/" target="_blank">
 			<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" alt="LeetCode October 24 Badge" width="100px" style="position:absolute"/>
 		</a>
+	<h3>HackerRank</h3>
+		<a href="https://www.hackerrank.com/diegogerwig">
+			<img src="https://img.shields.io/badge/Python-5%20Star-yellow?style=for-the-badge&logo=python&logoColor=white" height="200"/>
+		</a>
 </details>
 
 ---
