@@ -37,17 +37,18 @@
 
 <h3 align="left">DATABASES</h3>
 	<p align="left">
-		<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,mongodb&theme=dark" />
+		<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,sqlite,mongodb&theme=dark" />
 	</p>
 
 <h3 align="left">WEB</h3>
 	<p align="left">
-		<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,sqlite,mongodb&theme=dark" />
+		<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,bootstrap,&theme=dark" />
 	</p>
 
 <h3 align="left">TOOLS</h3>
 	<p align="left">
-		<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,jupyter,git,github,postman,latex,markdown,qiskit&theme=dark" />
+		<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,jupyter,git,github,postman,latex,markdown&theme=dark" />
+		<a href='#'><img alt='Qiskit' src='https://img.shields.io/badge/Qiskit-000000.svg?logo=qiskit&logoColor=white' height='25'></a>
 	</p>
 
 ---
