@@ -45,6 +45,7 @@
 		<a href='#'><img alt='Pytest' src='https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white' height='30'></a>
 		<a href='#'><img alt='TensorFlow' src='https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white' height='30'></a>
 		<a href='#'><img alt='Power BI' src='https://img.shields.io/badge/power_bi-F2C811?logo=PowerBI&logoColor=black' height='30'></a>
+		<a href='#'><img alt='Power BI' src='https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black' height='30'></a>
 		<a href='#'><img alt='Tableau' src='https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white' height='30'></a>
 		<a href='#'><img alt='Power BI' src='https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black' height='30'></a>
 		<a href='#'><img alt='Tableau' src='https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white' height='30'></a>
@@ -52,6 +53,10 @@
 
 <h3 align="left">DATABASES</h3>
 	<p align="left">
+		<a href='#'><img alt='SQLite' src='https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white' height='30'></a>
+		<a href='#'><img alt='MySQL' src='https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white' height='30'></a>
+		<a href='#'><img alt='PostgreSQL' src='https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white' height='30'></a>
+		<a href='#'><img alt='Mongo DB' src='https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white' height='30'></a>
 	  	<a href='#'><img alt='SQLite' src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white' height='30'></a>
 		<a href='#'><img alt='MySQL' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' height='30'></a>
 		<a href='#'><img alt='PostgreSQL' src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' height='30'></a>
