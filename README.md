@@ -28,6 +28,9 @@
 <a><img alt='GitHub' height="40" src="https://cdn.simpleicons.org/github/black?viewbox=auto" style="background-color: #f0f0f0; border-radius: 5px; padding: 3px;" title="GitHub"/></a>
 <a><img alt='GitHub' height="40" src="https://cdn.simpleicons.org/github/white?viewbox=auto" style="background-color: #f0f0f0; border-radius: 5px; padding: 3px; border: 3px solid #d0d0d0;" title="GitHub"/></a>
 <a><img alt='GitHub' height="40" src="https://cdn.simpleicons.org/github/white" style="box-shadow: 0 0 3px #d0d0d0; border-radius: 5px; padding: 3px; background: #f5f5f5;" title="GitHub"/></a>
+<a href="https://github.com">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white"/>
+</a>
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,surrealdb,actix,yew&titles=true)
 
