@@ -37,7 +37,7 @@
 	  	<a href='#'><img alt='LaTeX' src='https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white' height='30'></a>
 	</p>
 
-<h3 align="left">DATA SCIENCE</h3>
+<h3 align="left">📈 DATA SCIENCE</h3>
 	<p align="left">
 		<a href='#'><img alt='NumPy' src='https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white' height='30'></a>
 		<a href='#'><img alt='Pandas' src='https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white' height='30'></a>
@@ -48,7 +48,7 @@
 		<a href='#'><img alt='Tableau' src='https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white' height='30'></a>
 	</p>
 
-<h3 align="left">DATABASES</h3>
+<h3 align="left">🛢️ DATABASES</h3>
 	<p align="left">
 		<a href='#'><img alt='SQLite' src='https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white' height='30'></a>
 		<a href='#'><img alt='MySQL' src='https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white' height='30'></a>
@@ -58,7 +58,7 @@
 		<a href='#'><img alt='pgAdmin' src='https://img.shields.io/badge/pgAdmin-336791?logo=postgresql&logoColor=white' height='30'></a>
 	</p>
 
-<h3 align="left">WEB</h3>
+<h3 align="left">🖥️ WEB</h3>
 	<p align="left">
 		<a href='#'><img alt='HTML' src='https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white' height='30'></a>
 		<a href='#'><img alt='CSS' src='https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white' height='30'></a>
@@ -67,7 +67,7 @@
 		<a href='#'><img alt='Bootstrap' src='https://img.shields.io/badge/Bootstrap-563D7C.svg?logo=bootstrap&logoColor=black' height='30'></a>
 	</p>
 
-<h3 align="left">TOOLS</h3>
+<h3 align="left">🧩 TOOLS</h3>
 	<p align="left">
 		<a href='#'><img alt='Docker' src='https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white' height='30'></a>
 		<a href='#'><img alt='Jupyter' src='https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white' height='30'></a>
