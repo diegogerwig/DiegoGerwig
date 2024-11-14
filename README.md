@@ -27,7 +27,7 @@
 
 BASE_URL = https://simpleskill.icons.workers.dev/svg
 
-[![My Skills]([BASE_URL]?i=react,node.js,docker,mongodb,postgresql,awslambda,adobexd,angular)
+![My Skills]([BASE_URL]?i=react,node.js,docker,mongodb,postgresql,awslambda,adobexd,angular)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,surrealdb,actix,yew&titles=true)
 
