@@ -25,8 +25,9 @@
 
 ## **🛠️ Tools & Skills**
 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,surrealdb,actix,yew&titles=true)
 
-**LANGUAGES:** <br><br> [![Python, Java, Kotlin, C](https://skillicons.dev/icons?i=python,java,kotlin,c)](https://skillicons.dev) <br><br>
+**LANGUAGES:** <br><br> [![Python, C, C++, Assembly, Bash](https://skillicons.dev/icons?i=python,java,kotlin,c)](https://skillicons.dev) <br><br>
 **DATA SCIENCE:** <br><br> [![R, SQL, MATLAB, STATA](https://skillicons.dev/icons?i=r,sql,matlab,stata)](https://skillicons.dev) <br><br>
 **DATABASES:** <br><br> [![MySQL, PostgreSQL, MongoDB](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev) <br><br>
 **WEB:** <br><br> [![HTML, CSS, JS, TS, Bootstrap](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind)](https://skillicons.dev) <br><br>
