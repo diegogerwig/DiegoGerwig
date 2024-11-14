@@ -24,48 +24,6 @@
 ---
 
 <details> 
-	<summary><h2>🏆 Licenses & Certifications </h2></summary>
-	<h3>42 Network</h3>
-		<div style='display: flex; flex-direction: column; align-items: center;'>
-			<a href='https://www.credly.com/org/42/badge/42-cursus-junior-developer-level-12'>
-				<img src='./_badges/42_level_12.png' width='200'>
-			</a>
-		</div>
-	<h3>Quantum Computing QClass 2023-2024</h3>
-		<a href='./_badges/QCourse501-1-214_Certificate.jpg'><img src='./_badges/QCourse501-1-214_Badge.jpg' height='150' width='300'></a>
-		<a href='./_badges/QCourse504-1-91_Certificate.jpg'><img src='./_badges/QCourse504-1-91_Badge.jpg' height='150' width='300'></a>
-		<br>
-		<!-- <a href='./_badges/QTitanium1-12_Certificate.jpg'><img src='./_badges/QTitanium1-12_Badge.jpg' height='100' width='200'></a>
-		<a href='./_badges/QCobalt4-43_Certificate.jpg'><img src='./_badges/QCobalt4-43_Badge.jpg' height='100' width='200'></a> -->
-	<div style='display: flex; flex-direction: row; justify-content: center; gap: 20px;'>
-		<div>
-			<h3>IBM Quantum Challenge 2024</h3>
-				<div style='display: flex; flex-direction: column; align-items: center;'>
-					<a href='https://www.credly.com/badges/7fce96fb-09f9-48c6-9f7c-d5118c3b9412' target='_blank'>
-						<img src='./_badges/IBM_quantum-challenge-2024.png' width='200'>
-					</a>
-				</div>
-		</div>
-		<div>
-			<h3>IBM Quantum Explorers 2023</h3>
-				<div style='display: flex; flex-direction: column; align-items: center;'>
-					<a href='https://www.credly.com/badges/1dfa6b06-c443-4d56-b6e8-3375dd7ad03b' target='_blank'>
-						<img src='./_badges/IBM_quantum-explorer-2023-advanced.png' width='200'>
-					</a>
-				</div>
-		</div>
-		<div>
-			<h3>IBM Quantum Summer School 2023</h3>
-				<div style='display: flex; flex-direction: column; align-items: center;'>
-					<a href='https://www.credly.com/badges/a27d052e-9609-4c30-aeb7-8b86ab0fd75a' target='_blank'>
-						<img src='./_badges/IBM_qiskit-global-summer-school-2023-quantum-excellence.png' width='200'>
-					</a>
-				</div>
-		</div>
-	</div>
-</details>
-
-<details> 
    <summary><h2>🏆 Licenses & Certifications </h2></summary>
    <h3>42 Network</h3>
 	   <div style='display: flex; flex-direction: column; align-items: center;'>
@@ -77,6 +35,8 @@
 	   <a href='./_badges/QCourse501-1-214_Certificate.jpg'><img src='./_badges/QCourse501-1-214_Badge.jpg' height='150' width='300'></a>
 	   <a href='./_badges/QCourse504-1-91_Certificate.jpg'><img src='./_badges/QCourse504-1-91_Badge.jpg' height='150' width='300'></a>
 	   <br>
+		<!-- <a href='./_badges/QTitanium1-12_Certificate.jpg'><img src='./_badges/QTitanium1-12_Badge.jpg' height='100' width='200'></a>
+		<a href='./_badges/QCobalt4-43_Certificate.jpg'><img src='./_badges/QCobalt4-43_Badge.jpg' height='100' width='200'></a> -->
 	<h3>IBM Quantum</h3>
 		<a href='https://www.credly.com/badges/7fce96fb-09f9-48c6-9f7c-d5118c3b9412'><img src='./_badges/IBM_quantum-challenge-2024.png' width='200'></a>
 		<a href='https://www.credly.com/badges/1dfa6b06-c443-4d56-b6e8-3375dd7ad03b'><img src='./_badges/IBM_quantum-explorer-2023-advanced.png' width='200'></a>
