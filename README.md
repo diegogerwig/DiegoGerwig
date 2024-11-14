@@ -25,10 +25,7 @@
 
 ## **🛠️ Tools & Skills**
 <a><img alt='GitHub' height="40" src="https://cdn.simpleicons.org/github/white?viewbox=auto" style="background-color: #f0f0f0; border-radius: 5px; padding: 3px;" title="GitHub"/></a>
-
-
-
-
+<a><img alt='GitHub' height="40" src="https://cdn.simpleicons.org/github/black?viewbox=auto" style="background-color: #f0f0f0; border-radius: 5px; padding: 3px;" title="GitHub"/></a>
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,surrealdb,actix,yew&titles=true)
 
