@@ -77,32 +77,29 @@
 	   <a href='./_badges/QCourse501-1-214_Certificate.jpg'><img src='./_badges/QCourse501-1-214_Badge.jpg' height='150' width='300'></a>
 	   <a href='./_badges/QCourse504-1-91_Certificate.jpg'><img src='./_badges/QCourse504-1-91_Badge.jpg' height='150' width='300'></a>
 	   <br>
-   <div style='display: flex; flex-direction: row; justify-content: space-evenly; align-items: flex-start; gap: 20px; margin: 20px 0;'>
-	   <div>
-		   <h3>IBM Quantum Challenge 2024</h3>
-		   <div style='display: flex; flex-direction: column; align-items: center;'>
-			   <a href='https://www.credly.com/badges/7fce96fb-09f9-48c6-9f7c-d5118c3b9412' target='_blank'>
-				   <img src='./_badges/IBM_quantum-challenge-2024.png' width='200'>
-			   </a>
-		    </div>
-	    </div>
-	    <div>
-		   <h3>IBM Quantum Explorers 2023</h3>
-		   <div style='display: flex; flex-direction: column; align-items: center;'>
-			   <a href='https://www.credly.com/badges/1dfa6b06-c443-4d56-b6e8-3375dd7ad03b' target='_blank'>
-				   <img src='./_badges/IBM_quantum-explorer-2023-advanced.png' width='200'>
-			   </a>
-		   </div>
-	   </div>
-	   <div>
-		   <h3>IBM Quantum Summer School 2023</h3>
-		   <div style='display: flex; flex-direction: column; align-items: center;'>
-			   <a href='https://www.credly.com/badges/a27d052e-9609-4c30-aeb7-8b86ab0fd75a' target='_blank'>
-				   <img src='./_badges/IBM_qiskit-global-summer-school-2023-quantum-excellence.png' width='200'>
-			   </a>
-		   </div>
-	   </div>
-   </div>
+	<h3>IBM Certificates</h3>
+	<table>
+		<tr>
+			<td align="center">
+				<h4>IBM Quantum Challenge 2024</h4>
+				<a href='https://www.credly.com/badges/7fce96fb-09f9-48c6-9f7c-d5118c3b9412'>
+					<img src='./_badges/IBM_quantum-challenge-2024.png' width='200'>
+				</a>
+			</td>
+			<td align="center">
+				<h4>IBM Quantum Explorers 2023</h4>
+				<a href='https://www.credly.com/badges/1dfa6b06-c443-4d56-b6e8-3375dd7ad03b'>
+					<img src='./_badges/IBM_quantum-explorer-2023-advanced.png' width='200'>
+				</a>
+			</td>
+			<td align="center">
+				<h4>IBM Quantum Summer School 2023</h4>
+				<a href='https://www.credly.com/badges/a27d052e-9609-4c30-aeb7-8b86ab0fd75a'>
+					<img src='./_badges/IBM_qiskit-global-summer-school-2023-quantum-excellence.png' width='200'>
+				</a>
+			</td>
+		</tr>
+	</table>
 </details>
 
 ---
