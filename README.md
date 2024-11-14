@@ -23,6 +23,17 @@
 
 ---
 
+## **🛠️ Tools & Skills**
+
+
+**LANGUAGES:** <br><br> [![Python, Java, Kotlin, C](https://skillicons.dev/icons?i=python,java,kotlin,c)](https://skillicons.dev) <br><br>
+**DATA SCIENCE:** <br><br> [![R, SQL, MATLAB, STATA](https://skillicons.dev/icons?i=r,sql,matlab,stata)](https://skillicons.dev) <br><br>
+**DATABASES:** <br><br> [![MySQL, PostgreSQL, MongoDB](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev) <br><br>
+**WEB:** <br><br> [![HTML, CSS, JS, TS, Bootstrap](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind)](https://skillicons.dev) <br><br>
+**TOOLS:** <br><br> [![Github, Postman](https://skillicons.dev/icons?i=figma,vercel,cloudflare,github)](https://skillicons.dev) <br><br>
+
+---
+
 <details> 
    <summary><h2>🏆 Licenses & Certifications </h2></summary>
    <h3>42 Network</h3>
@@ -41,6 +52,14 @@
 		<a href='https://www.credly.com/badges/7fce96fb-09f9-48c6-9f7c-d5118c3b9412'><img src='./_badges/IBM_quantum-challenge-2024.png' width='200'></a>
 		<a href='https://www.credly.com/badges/1dfa6b06-c443-4d56-b6e8-3375dd7ad03b'><img src='./_badges/IBM_quantum-explorer-2023-advanced.png' width='200'></a>
 		<a href='https://www.credly.com/badges/a27d052e-9609-4c30-aeb7-8b86ab0fd75a'><img src='./_badges/IBM_qiskit-global-summer-school-2023-quantum-excellence.png' width='200'></a>
+	<h3>LeetCode</h3>
+		<a href="https://leetcode.com/u/jorge-lopz/" target="_blank">
+			<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode 50 Days Badge" width="100px" style="position:absolute"/>
+		</a>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href="https://leetcode.com/u/jorge-lopz/" target="_blank">
+			<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" alt="LeetCode October 24 Badge" width="100px" style="position:absolute"/>
+		</a>
 </details>
 
 ---
@@ -125,8 +144,8 @@
 		</a>   
 		<a href='https://github.com/ashutosh00710/github-readme-activity-graph'><img alt='Diego Gerwig's Activity Graph' src='https://github-readme-activity-graph.vercel.app/graph/?username=diegogerwig&hide_border=false&theme=github-dark-dimmed' />
 		</a>
-		<p align='center' >
+		<!-- <p align='center' >
 			<img src='https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif' />
-		</p>
+		</p> -->
 	</div>
 </details>
