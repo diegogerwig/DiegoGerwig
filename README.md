@@ -99,11 +99,11 @@
 		<a href='https://www.credly.com/badges/1dfa6b06-c443-4d56-b6e8-3375dd7ad03b'><img src='./_badges/IBM_quantum-explorer-2023-advanced.png' width='200'></a>
 		<a href='https://www.credly.com/badges/a27d052e-9609-4c30-aeb7-8b86ab0fd75a'><img src='./_badges/IBM_qiskit-global-summer-school-2023-quantum-excellence.png' width='200'></a>
 	<h3>LeetCode</h3>
-		<a href="https://leetcode.com/u/jorge-lopz/" target="_blank">
+		<a href="https://leetcode.com/u/diegogerwig/" target="_blank">
 			<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode 50 Days Badge" width="100px" style="position:absolute"/>
 		</a>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		<a href="https://leetcode.com/u/jorge-lopz/" target="_blank">
+		<a href="https://leetcode.com/u/diegogerwig/" target="_blank">
 			<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" alt="LeetCode October 24 Badge" width="100px" style="position:absolute"/>
 		</a>
 	<h3>HackerRank</h3>
