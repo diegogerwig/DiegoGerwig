@@ -32,7 +32,7 @@
 
 <h3 align="left">DATA SCIENCE</h3>
 	<p align="left">
-		<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib&theme=dark" />
+		<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,tensorflow,powerbi,tableau&theme=dark" />
 	</p>
 
 <h3 align="left">DATABASES</h3>
@@ -42,12 +42,12 @@
 
 <h3 align="left">WEB</h3>
 	<p align="left">
-		<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,mongodb&theme=dark" />
+		<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,sqlite,mongodb&theme=dark" />
 	</p>
 
 <h3 align="left">TOOLS</h3>
 	<p align="left">
-		<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman&theme=dark" />
+		<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,jupyter,git,github,postman,latex,markdown,qiskit&theme=dark" />
 	</p>
 
 ---
