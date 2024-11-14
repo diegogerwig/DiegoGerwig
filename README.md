@@ -46,16 +46,14 @@
 		<a href='#'><img alt='TensorFlow' src='https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white' height='30'></a>
 		<a href='#'><img alt='Power BI' src='https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black' height='30'></a>
 		<a href='#'><img alt='Tableau' src='https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white' height='30'></a>
-		<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,tensorflow,powerbi,tableau&theme=dark" />
 	</p>
 
 <h3 align="left">DATABASES</h3>
 	<p align="left">
-	  	<a href='#'><img alt='SQLite' src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white' height='25'></a>
-		<a href='#'><img alt='MySQL' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' height='25'></a>
-		<a href='#'><img alt='PostgreSQL' src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' height='25'></a>
-		<a href='#'><img alt='Mongo DB' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' height='25'></a>
-		<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,sqlite,mongodb&theme=dark" />
+	  	<a href='#'><img alt='SQLite' src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white' height='30'></a>
+		<a href='#'><img alt='MySQL' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' height='30'></a>
+		<a href='#'><img alt='PostgreSQL' src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' height='30'></a>
+		<a href='#'><img alt='Mongo DB' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' height='30'></a>
 	</p>
 
 <h3 align="left">WEB</h3>
@@ -76,8 +74,6 @@
 		<a href='#'><img alt='Postman' src='https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white' height='30'></a>
 		<a href='#'><img alt='Visual Studio Code' src='https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white' height='30'></a>
 		<a href='#'><img alt='Qiskit' src='https://img.shields.io/badge/Qiskit-000000.svg?logo=qiskit&logoColor=white' height='30'></a>
-		<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,jupyter,git,github,postman,latex,markdown&theme=dark" />
-		<a href='#'><img alt='Qiskit' src='https://img.shields.io/badge/Qiskit-000000.svg?logo=qiskit&logoColor=white' height='25'></a>
 	</p>
 
 ---
@@ -112,7 +108,7 @@
 
 ---
 
-<details> 
+<!-- <details> 
   <summary><h2>🛠️ Tools & Skills </h2></summary>
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -159,9 +155,9 @@
 	  <a href='#'><img alt='Visual Studio Code' src='https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white' height='25'></a>
 	  <a href='#'><img alt='Qiskit' src='https://img.shields.io/badge/Qiskit-000000.svg?logo=qiskit&logoColor=white' height='25'></a>
   </p>
-</details>
+</details> 
 
----
+---  -->
 
 <details>
   <summary><h2>📊 Stats & Activity</h2></summary>
