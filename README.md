@@ -25,7 +25,7 @@
 
 ## **🛠️ Tools & Skills**
 
-##### **LANGUAGES:**![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,assembly,bash&titles=true)
+### **LANGUAGES:** <br>![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,assembly,bash&titles=true)
 
 **LANGUAGES:** <br><br> [![Python, C, C++, Assembly, Bash](https://skillicons.dev/icons?i=python,c,cpp,assembly,bash)](https://skillicons.dev) <br><br>
 **DATA SCIENCE:** <br><br> [![R, SQL, MATLAB, STATA](https://skillicons.dev/icons?i=r,sql,matlab,stata)](https://skillicons.dev) <br><br>
