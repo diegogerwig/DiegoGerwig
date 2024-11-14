@@ -32,6 +32,10 @@
  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,assembly,bash&theme=dark" alt="Programming Languages" />
 </p>
 
+<h3 align="left" style="background-color: #1a1b26; padding: 10px; border-radius: 5px; display: inline-block;">
+ Languages: <img src="https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,assembly,bash&theme=dark" alt="Programming Languages" style="vertical-align: middle;" />
+</h3>
+
 **LANGUAGES:** <br><br> [![Python, C, C++, Assembly, Bash](https://skillicons.dev/icons?i=python,c,cpp,assembly,bash)](https://skillicons.dev) <br><br>
 **DATA SCIENCE:** <br><br> [![R, SQL, MATLAB, STATA](https://skillicons.dev/icons?i=r,sql,matlab,stata)](https://skillicons.dev) <br><br>
 **DATABASES:** <br><br> [![MySQL, PostgreSQL, MongoDB](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev) <br><br>
