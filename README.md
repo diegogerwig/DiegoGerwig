@@ -25,22 +25,30 @@
 
 ## **🛠️ Tools & Skills**
 
-#### **LANGUAGES:** <br>![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,assembly,bash&titles=true)
+<h3 align="left">LANGUAGES</h3>
+	<p align="left">
+		<img src="https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,assembly,bash&theme=dark" />
+	</p>
 
-<h3 align="left">Languages</h3>
-<p align="left">
- <img src="https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,assembly,bash&theme=dark" alt="Programming Languages" />
-</p>
+<h3 align="left">DATA SCIENCE</h3>
+	<p align="left">
+		<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib&theme=dark" />
+	</p>
 
-<h3 align="left" style="background-color: #1a1b26; padding: 10px; border-radius: 5px; display: inline-block;">
- Languages: <img src="https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,assembly,bash&theme=dark" alt="Programming Languages" style="vertical-align: middle;" />
-</h3>
+<h3 align="left">DATABASES</h3>
+	<p align="left">
+		<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,mongodb&theme=dark" />
+	</p>
 
-**LANGUAGES:** <br><br> [![Python, C, C++, Assembly, Bash](https://skillicons.dev/icons?i=python,c,cpp,assembly,bash)](https://skillicons.dev) <br><br>
-**DATA SCIENCE:** <br><br> [![R, SQL, MATLAB, STATA](https://skillicons.dev/icons?i=r,sql,matlab,stata)](https://skillicons.dev) <br><br>
-**DATABASES:** <br><br> [![MySQL, PostgreSQL, MongoDB](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev) <br><br>
-**WEB:** <br><br> [![HTML, CSS, JS, TS, Bootstrap](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind)](https://skillicons.dev) <br><br>
-**TOOLS:** <br><br> [![Github, Postman](https://skillicons.dev/icons?i=figma,vercel,cloudflare,github)](https://skillicons.dev) <br><br>
+<h3 align="left">WEB</h3>
+	<p align="left">
+		<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,mongodb&theme=dark" />
+	</p>
+
+<h3 align="left">TOOLS</h3>
+	<p align="left">
+		<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman&theme=dark" />
+	</p>
 
 ---
 
