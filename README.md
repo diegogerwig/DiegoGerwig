@@ -42,8 +42,12 @@
 		<a href='#'><img alt='NumPy' src='https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white' height='30'></a>
 		<a href='#'><img alt='Pandas' src='https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white' height='30'></a>
 		<a href='#'><img alt='Matplotlib' src='https://img.shields.io/badge/Matplotlib-3776AB.svg?logo=python&logoColor=white' height='30'></a>
+		<a href='#'><img alt='Seaborn' src='https://img.shields.io/badge/Seaborn-0C4B5E.svg?logo=seaborn&logoColor=white' height='30'></a>
 		<a href='#'><img alt='Pytest' src='https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white' height='30'></a>
 		<a href='#'><img alt='TensorFlow' src='https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white' height='30'></a>
+		<a href='#'><img alt='Keras' src='https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white' height='30'></a>
+		<a href='#'><img alt='PyTorch' src='https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=PyTorch&logoColor=white' height='30'></a>
+		<a href='#'><img alt='Scikit-learn' src='https://img.shields.io/badge/Scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white' height='30'></a>
 		<a href='#'><img alt='Power BI' src='https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black' height='30'></a>
 		<a href='#'><img alt='Tableau' src='https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white' height='30'></a>
 	</p>
@@ -65,6 +69,7 @@
 		<a href='#'><img alt='TypeScript' src='https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white' height='30'></a>
 		<a href='#'><img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black' height='30'></a>
 		<a href='#'><img alt='Bootstrap' src='https://img.shields.io/badge/Bootstrap-563D7C.svg?logo=bootstrap&logoColor=black' height='30'></a>
+
 	</p>
 
 <h3 align="left">🧩 TOOLS</h3>
@@ -72,8 +77,8 @@
 		<a href='#'><img alt='Docker' src='https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white' height='30'></a>
 		<a href='#'><img alt='Jupyter' src='https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white' height='30'></a>
 		<a href='#'><img alt='Git' src='https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white' height='30'></a>
-		<a href='#'><img alt='Google Sheets' src='https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white' height='30'></a>
 		<a href='#'><img alt='Postman' src='https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white' height='30'></a>
+		<a href='#'><img alt='Google Sheets' src='https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white' height='30'></a>
 		<a href='#'><img alt='Visual Studio Code' src='https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white' height='30'></a>
 		<a href='#'><img alt='Qiskit' src='https://img.shields.io/badge/Qiskit-000000.svg?logo=qiskit&logoColor=white' height='30'></a>
 	</p>
