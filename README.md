@@ -77,8 +77,9 @@
 		<a href='#'><img alt='Jupyter' src='https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white' height='25'></a>
 		<a href='#'><img alt='Git' src='https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white' height='25'></a>
 		<a href='#'><img alt='Postman' src='https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white' height='25'></a>
-		<a href='#'><img alt='Streamlit' src='https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white' height='25'></a>
+		<a href='https://wine-class-gerwig.streamlit.app/'><img alt='Streamlit' src='https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white' height='25'></a>
 		<a href='#'><img alt='FastAPI' src='https://img.shields.io/badge/FastAPI-005571.svg?logo=fastapi&logoColor=white' height='25'></a>
+		<a href='#'><img alt='Render' src='https://img.shields.io/badge/Render-46E3B7.svg?logo=render&logoColor=white' height='25'></a>
 		<a href='#'><img alt='Google Sheets' src='https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white' height='25'></a>
 		<a href='https://www.credly.com/badges/7fce96fb-09f9-48c6-9f7c-d5118c3b9412'><img alt='Qiskit' src='https://img.shields.io/badge/Qiskit-000000.svg?logo=qiskit&logoColor=white' height='25'></a>
 	</p>
