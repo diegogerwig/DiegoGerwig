@@ -43,11 +43,12 @@
 		<a href='#'><img alt='Pandas' src='https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white' height='25'></a>
 		<a href='#'><img alt='Matplotlib' src='https://img.shields.io/badge/Matplotlib-3776AB.svg?logo=python&logoColor=white' height='25'></a>
 		<a href='#'><img alt='Seaborn' src='https://img.shields.io/badge/Seaborn-0C4B5E.svg?logo=seaborn&logoColor=white' height='25'></a>
+		<a href='#'><img alt='Streamlit' src='https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white' height='25'></a>
+		<a href='#'><img alt='Scikit-learn' src='https://img.shields.io/badge/Scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white' height='25'></a>
 		<a href='#'><img alt='Pytest' src='https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white' height='25'></a>
 		<a href='#'><img alt='TensorFlow' src='https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white' height='25'></a>
 		<a href='#'><img alt='Keras' src='https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white' height='25'></a>
 		<a href='#'><img alt='PyTorch' src='https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=PyTorch&logoColor=white' height='25'></a>
-		<a href='#'><img alt='Scikit-learn' src='https://img.shields.io/badge/Scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white' height='25'></a>
 		<a href='#'><img alt='Power BI' src='https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black' height='25'></a>
 		<a href='#'><img alt='Tableau' src='https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white' height='25'></a>
 	</p>
