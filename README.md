@@ -120,26 +120,26 @@
   <summary><h2>📊 Stats & Activity</h2></summary>
 	<div align='center' style='text-align:center'>
 		<a href=''>
-			<img width='50%' 
+			<img width='60%' 
 				src='https://github-readme-streak-stats.herokuapp.com/?user=diegogerwig&theme=vue-dark&hide_border=false'>
 		</a>
 		<a href=''>
-			<img width='50%' 
+			<img width='60%' 
 				src='https://github-readme-stats.vercel.app/api?username=diegogerwig&theme=vue-dark&show_icons=true&hide_border=false&count_private=true'>
 		</a>
 		<a href=''>
-			<img width='50%' 
+			<img width='60%' 
 				src='https://github-readme-stats.vercel.app/api/top-langs/?username=diegogerwig&theme=vue-dark&show_icons=true&hide_border=false&layout=compact'>
 		</a>
 		<br>
 		<br>
 		<a href='https://wakatime.com/@diegogerwig'>
-			<img width='30%'
+			<img width='40%'
 				src="https://wakatime.com/badge/user/a124cb58-405f-40c8-a801-6033e54c1f7d.svg">
 		</a>
 		<br>
 		<a href='https://wakatime.com/@diegogerwig'>
-			<img width='100%' 
+			<img width='90%' 
 				src='https://github-readme-stats.vercel.app/api/wakatime?username=diegogerwig&hide_progress=false&layout=compact&custom_title=WAKATIME%20last%20year%20📈%Stats&hide_border=false&theme=vue-dark'
 				alt='Diego Gerwig's WAKATIME last year 📈 stats'>
 		</a>   
