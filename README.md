@@ -119,10 +119,10 @@
 <details>
   <summary><h2>📊 Stats & Activity</h2></summary>
 	<div align='center' style='text-align:center'>
-		<a href=''>
+		<!-- <a href=''>
 			<img width='60%' 
 				src='https://github-readme-streak-stats.herokuapp.com/?user=diegogerwig&theme=vue-dark&hide_border=false'>
-		</a>
+		</a> -->
 		<a href=''>
 			<img width='60%' 
 				src='https://github-readme-stats.vercel.app/api?username=diegogerwig&theme=vue-dark&show_icons=true&hide_border=false&count_private=true'>
