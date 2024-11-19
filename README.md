@@ -145,7 +145,7 @@
 		</a>   
 		<br>
 		<br>
-		<a href='https://github.com/ashutosh00710/github-readme-activity-graph'><img width='90%' alt='Diego Gerwig's Activity Graph' src='https://github-readme-activity-graph.vercel.app/graph/?username=diegogerwig&hide_border=false&theme=github-dark-dimmed' />
+		<a href='https://github.com/ashutosh00710/github-readme-activity-graph'><img width='90%' alt='Diego Gerwig's Activity Graph' src='https://github-readme-activity-graph.vercel.app/graph/?username=diegogerwig&hide_border=false&theme=github-dark-dimmed&border_radius=8&border_color=737373&line=737373&title_color=737373' />
 		</a>
 		<!-- <p align='center' >
 			<img src='https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif' />
