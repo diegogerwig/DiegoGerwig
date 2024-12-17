@@ -123,6 +123,14 @@
 			<img width='60%' 
 				src='https://github-readme-streak-stats.herokuapp.com/?user=diegogerwig&theme=vue-dark&hide_border=false'>
 		</a>
+		<div align='center' style='text-align:center'>
+		    <a href='#'>
+		        <img width='60%' 
+		            src='https://github-readme-streak-stats.herokuapp.com/?user=diegogerwig&theme=vue-dark&hide_border=false'
+		            onerror="this.onerror=null; this.src='https://img.shields.io/badge/GitHub%20Stats-Currently%20Unavailable-red'; this.style.width='auto';"
+		            alt="GitHub Streak Stats">
+		    </a>
+		</div>
 		<a href='#'>
 			<img width='60%' 
 				src='https://github-readme-stats.vercel.app/api?username=diegogerwig&theme=vue-dark&show_icons=true&hide_border=false&count_private=true'>
