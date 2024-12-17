@@ -122,8 +122,7 @@
 		<a href='#'>
 			<img width='60%' 
 		    		src='https://github-readme-streak-stats.herokuapp.com/?user=diegogerwig&theme=vue-dark&hide_border=false'
-		    		onerror="this.onerror=null; this.src='https://img.shields.io/badge/GitHub%20Stats-Currently%20Unavailable-red'; this.style.width='auto';"
-		    		alt="GitHub Streak Stats">
+		    		onerror="this.onerror=null; this.src='https://img.shields.io/badge/GitHub%20Stats-Currently%20Unavailable-red'; this.style.width='auto';">
 		</a>
 		<a href='#'>
 			<img width='60%' 
