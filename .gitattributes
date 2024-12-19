@@ -1,2 +1,4 @@
 *.ipynb linguist-language=Python
 *.ipynb linguist-documentation=false
+*.ipynb linguist-detectable=true
+.ipynb_checkpoints/* linguist-documentation=true
