@@ -1,4 +1,8 @@
+# Count Jupyter Notebook files as Python
 *.ipynb linguist-language=Python
 *.ipynb linguist-documentation=false
 *.ipynb linguist-detectable=true
 .ipynb_checkpoints/* linguist-documentation=true
+
+# Count PostScript files as TypeScript
+*.ps linguist-language=TypeScript
