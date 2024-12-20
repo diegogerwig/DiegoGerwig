@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Diego Gerwig
 
-🦺 Civil Engineer specialized in Software Development and Data Science. 
+🦺 Civil Engineer specialized in Data Science and Software Development. 
 
 💻 Experienced in integrating digital solutions into engineering projects, I lead digital transformation initiatives with agile methodologies and data analysis.
 
