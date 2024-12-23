@@ -130,9 +130,9 @@
 				alt='GitHub Stats - Failed to load'>
 			</a>
 			<!-- <a href='#'>
-			<img width='60%' 
-			src='https://github-readme-stats.vercel.app/api/top-langs/?username=diegogerwig&theme=vue-dark&show_icons=true&hide_border=false&langs_count=10&layout=compact'
-			alt='Top Languages Stats - Failed to load'>
+				<img width='60%' 
+				src='https://github-readme-stats.vercel.app/api/top-langs/?username=diegogerwig&theme=vue-dark&show_icons=true&hide_border=false&langs_count=10&layout=compact'
+				alt='Top Languages Stats - Failed to load'>
 			</a> -->
 			<br>
 			<br>
