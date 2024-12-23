@@ -118,43 +118,43 @@
 
 <details>
 	<summary><h2>📊 Stats & Activity</h2></summary>
-		<div align='center' style='text-align:center'>
-			<a href='#'>
-				<img width='50%' 
-				src='https://github-readme-streak-stats.herokuapp.com/?user=diegogerwig&theme=vue-dark&hide_border=false'
-				alt='GitHub Streak Stats - Failed to load'>
-			</a>
-			<a href='#'>
-				<img width='50%' 
-				src='https://github-readme-stats.vercel.app/api?username=diegogerwig&theme=vue-dark&show_icons=true&hide_border=false&count_private=true'
-				alt='GitHub Stats - Failed to load'>
-			</a>
-			<!-- <a href='#'>
-				<img width='60%' 
-				src='https://github-readme-stats.vercel.app/api/top-langs/?username=diegogerwig&theme=vue-dark&show_icons=true&hide_border=false&langs_count=10&layout=compact'
-				alt='Top Languages Stats - Failed to load'>
-			</a> -->
-			<br>
-			<br>
-			<a href='https://wakatime.com/@diegogerwig'>
-				<img width='30%'
-				src="https://wakatime.com/badge/user/a124cb58-405f-40c8-a801-6033e54c1f7d.svg"
-				alt='Wakatime Badge - Failed to load'>
-			</a>
-			<br>
-			<a href='https://wakatime.com/@diegogerwig'>
-				<img width='70%' 
-				src='https://github-readme-stats.vercel.app/api/wakatime?username=diegogerwig&hide_progress=false&layout=compact&custom_title=WAKATIME%20last%20year%20📈%Stats&hide_border=false&theme=vue-dark'
-				alt='Wakatime Stats - Failed to load'>
-			</a>   
-			<br>
-			<br>
-			<a href='https://github.com/ashutosh00710/github-readme-activity-graph'>
-				<img width='90%' 
-				alt="Activity Graph - Failed to load" 
-				src='https://github-readme-activity-graph.vercel.app/graph/?username=diegogerwig&hide_border=false&theme=github-dark-dimmed'>
-			</a>
-		</div>
+	<div align='center' style='text-align:center'>
+		<a href='#'>
+			<img width='50%' 
+			src='https://github-readme-streak-stats.herokuapp.com/?user=diegogerwig&theme=vue-dark&hide_border=false'
+			alt='GitHub Streak Stats - Failed to load'>
+		</a>
+		<a href='#'>
+			<img width='50%' 
+			src='https://github-readme-stats.vercel.app/api?username=diegogerwig&theme=vue-dark&show_icons=true&hide_border=false&count_private=true'
+			alt='GitHub Stats - Failed to load'>
+		</a>
+		<!-- <a href='#'>
+			<img width='60%' 
+			src='https://github-readme-stats.vercel.app/api/top-langs/?username=diegogerwig&theme=vue-dark&show_icons=true&hide_border=false&langs_count=10&layout=compact'
+			alt='Top Languages Stats - Failed to load'>
+		</a> -->
+		<br>
+		<br>
+		<a href='https://wakatime.com/@diegogerwig'>
+			<img width='30%'
+			src="https://wakatime.com/badge/user/a124cb58-405f-40c8-a801-6033e54c1f7d.svg"
+			alt='Wakatime Badge - Failed to load'>
+		</a>
+		<br>
+		<a href='https://wakatime.com/@diegogerwig'>
+			<img width='70%' 
+			src='https://github-readme-stats.vercel.app/api/wakatime?username=diegogerwig&hide_progress=false&layout=compact&custom_title=WAKATIME%20last%20year%20📈%Stats&hide_border=false&theme=vue-dark'
+			alt='Wakatime Stats - Failed to load'>
+		</a>   
+		<br>
+		<br>
+		<a href='https://github.com/ashutosh00710/github-readme-activity-graph'>
+			<img width='90%' 
+			alt="Activity Graph - Failed to load" 
+			src='https://github-readme-activity-graph.vercel.app/graph/?username=diegogerwig&hide_border=false&theme=github-dark-dimmed'>
+		</a>
+	</div>
 </details>
 
 
