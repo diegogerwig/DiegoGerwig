@@ -118,14 +118,7 @@
 
 <details>
 	<summary><h2>📊 Stats & Activity</h2></summary>
-	<div align="center">
-	[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=diegogerwig&theme=vue-dark&hide_border=false)](# "GitHub Streak Stats")
-	[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegogerwig&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)](# "GitHub Stats")
-	[![Total time coded since Dec 24 2024](https://wakatime.com/badge/user/a124cb58-405f-40c8-a801-6033e54c1f7d.svg)](https://wakatime.com/@diegogerwig "Total time coded since Dec 24 2024")
-	[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=diegogerwig&hide_progress=false&layout=compact&custom_title=WAKATIME%20last%20year%20📈%Stats&hide_border=false&theme=vue-dark)](https://wakatime.com/@diegogerwig "Wakatime Stats")
-	[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=diegogerwig&hide_border=false&theme=github-dark-dimmed)](https://github.com/ashutosh00710/github-readme-activity-graph "Activity Graph")
-	</div>
-<!-- 	<div align='center' style='text-align:center'>
+	<div align='center' style='text-align:center'>
 		<a href='#'>
 			<img width='50%' 
 			src='https://github-readme-streak-stats.herokuapp.com/?user=diegogerwig&theme=vue-dark&hide_border=false'
@@ -136,11 +129,11 @@
 			src='https://github-readme-stats.vercel.app/api?username=diegogerwig&theme=vue-dark&show_icons=true&hide_border=false&count_private=true'
 			alt='GitHub Stats - Failed to load'>
 		</a>
-		<a href='#'>
+<!-- 		<a href='#'>
 			<img width='60%' 
 			src='https://github-readme-stats.vercel.app/api/top-langs/?username=diegogerwig&theme=vue-dark&show_icons=true&hide_border=false&langs_count=10&layout=compact'
 			alt='Top Languages Stats - Failed to load'>
-		</a>
+		</a> -->
 		<br>
 		<br>
 		<a href='https://wakatime.com/@diegogerwig'>
@@ -161,7 +154,7 @@
 			alt="Activity Graph - Failed to load" 
 			src='https://github-readme-activity-graph.vercel.app/graph/?username=diegogerwig&hide_border=false&theme=github-dark-dimmed'>
 		</a>
-	</div> -->
+	</div>
 </details>
 
 
