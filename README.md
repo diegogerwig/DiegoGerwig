@@ -122,12 +122,12 @@
 		<a href='#'>
 			<img width='50%' 
 			src='https://github-readme-streak-stats.herokuapp.com/?user=diegogerwig&theme=vue-dark&hide_border=false'
-			alt='GitHub Streak Stats - Failed to load'>
+			alt=''>
 		</a>
 		<a href='#'>
 			<img width='50%' 
 			src='https://github-readme-stats.vercel.app/api?username=diegogerwig&theme=vue-dark&show_icons=true&hide_border=false&count_private=true'
-			alt='GitHub Stats - Failed to load'>
+			alt=''>
 		</a>
 <!-- 		<a href='#'>
 			<img width='60%' 
