@@ -94,13 +94,19 @@
 			   <img src='./_badges/42_level_12.png' width='200'>
 		   </a>
 	   </div>
+	<h3>Data Science</h3>
+	   <div style='display: flex; flex-direction: column; align-items: center;'>
+		   <a href='./_badges/TheBridge_DataScience_2024_Certificate.pdf'>
+			   <img src='./_badges/TheBridge_DataScience_2024_Badge.png' width='200'>
+		   </a>
+	   </div>
 	<h3>Cybersecurity</h3>
 	   <div style='display: flex; flex-direction: column; align-items: center;'>
 		   <a href='https://www.credly.com/earner/earned/badge/9b00b626-1209-4edf-97fd-463096745842'>
 			   <img src='./_badges/Google_Cybersecurity Badge.png' width='200'>
 		   </a>
 	   </div>
-   <h3>Quantum Computing QClass 2023-2024</h3>
+    <h3>Quantum Computing QClass 2023-2024</h3>
 	   <a href='./_badges/QCourse501-1-214_Certificate.jpg'><img src='./_badges/QCourse501-1-214_Badge.jpg' height='150' width='300'></a>
 	   <a href='./_badges/QCourse504-1-91_Certificate.jpg'><img src='./_badges/QCourse504-1-91_Badge.jpg' height='150' width='300'></a>
 	   <br>
