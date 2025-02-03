@@ -109,6 +109,7 @@
     <h3>Quantum Computing QClass 2023-2024</h3>
 	   <a href='./_badges/QCourse501-1-214_Certificate.jpg'><img src='./_badges/QCourse501-1-214_Badge.jpg' height='150' width='300'></a>
 	   <a href='./_badges/QCourse504-1-91_Certificate.jpg'><img src='./_badges/QCourse504-1-91_Badge.jpg' height='150' width='300'></a>
+	   <a href='./_badges/QCourse501-2-48_Certificate.jpg'><img src='./_badges/QCourse501-2-48_Badge.jpg' height='150' width='300'></a>
 	   <br>
 		<!-- <a href='./_badges/QTitanium1-12_Certificate.jpg'><img src='./_badges/QTitanium1-12_Badge.jpg' height='100' width='200'></a> -->
 		<!-- <a href='./_badges/QCobalt4-43_Certificate.jpg'><img src='./_badges/QCobalt4-43_Badge.jpg' height='100' width='200'></a> -->
