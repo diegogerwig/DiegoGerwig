@@ -122,7 +122,10 @@
 		<a href='https://www.credly.com/badges/a27d052e-9609-4c30-aeb7-8b86ab0fd75a'><img src='./_badges/IBM_qiskit-global-summer-school-2023-quantum-excellence.png' width='200'></a>
 	<h3>LeetCode</h3>
 		<a href="https://leetcode.com/u/diegogerwig/" target="_blank">
-			<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode 50 Days Badge" width="100px" style="position:absolute"/>
+			<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode 2024 50 Days Badge" width="100px" style="position:absolute"/>
+		</a>
+		<a href="https://leetcode.com/u/diegogerwig/" target="_blank">
+			<img src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" alt="LeetCode 2025 50 Days Badge" width="100px" style="position:absolute"/>
 		</a>
 <!-- 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<a href="https://leetcode.com/u/diegogerwig/" target="_blank">
