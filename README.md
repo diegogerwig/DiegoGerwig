@@ -125,7 +125,7 @@
 			<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode 2024 50 Days Badge" width="100px" style="position:absolute"/>
 		</a>
 		<a href="https://leetcode.com/u/diegogerwig/" target="_blank">
-			<img src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" alt="LeetCode 2025 50 Days Badge" width="100px" style="position:absolute"/>
+			<img src="https://x.com/singh_saran99/status/1910633493173842138/photo/1" alt="LeetCode 2025 100 Days Badge" width="100px" style="position:absolute"/>
 		</a>
 <!-- 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<a href="https://leetcode.com/u/diegogerwig/" target="_blank">
