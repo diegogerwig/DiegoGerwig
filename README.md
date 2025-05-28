@@ -110,7 +110,7 @@
 			</a>
 		</div>
     <h3>Quantum Computing QClass 2025-2024-2023</h3>
-		<a href='./_badges/QCourse501-2-48_Certificate.jpg'><img src='./_badges/QCourse501-2-48_Badge.jpg' height='150' width='300'></a>
+		<a href='./_badges/QURECA Certificate ADEQUATE Course 2025.pdf'><img src='./_badges/QURECA Certificate ADEQUATE Course 2025.png' height='150'></a>
 		<br>
 		<a href='./_badges/QCourse501-2-48_Certificate.jpg'><img src='./_badges/QCourse501-2-48_Badge.jpg' height='150' width='300'></a>
 		<br>
