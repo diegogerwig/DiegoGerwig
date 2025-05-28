@@ -132,7 +132,7 @@
 		</a>
 		<br>
 		<a href="https://leetcode.com/u/diegogerwig/" target="_blank">
-			<img src="https://leetcode-badge-sage.vercel.app/badge/diegogerwig?theme=dark&bgColor=282828" alt="LeetCode Stats" style="border: 2px solid white; border-radius: 10px; transform: scale(1.5);"/>
+			<img src="https://leetcode-badge-sage.vercel.app/badge/diegogerwig?theme=dark&bgColor=282828" alt="LeetCode Stats" style="border: 5px solid white; border-radius: 25px; transform: scale(1.9);"/>
 		</a>
 </details>
 
