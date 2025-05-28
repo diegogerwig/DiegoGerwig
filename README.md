@@ -91,30 +91,32 @@
 <details> 
    <summary><h2>🏆 Licenses & Certifications </h2></summary>
    <h3>42 Network</h3>
-	   <div style='display: flex; flex-direction: column; align-items: center;'>
-		   <a href='https://www.credly.com/org/42/badge/42-cursus-developer-level-13'>
-		   <!-- <a href='https://www.credly.com/org/42/badge/42-cursus-junior-developer-level-12'> -->
-			   <img src='./_badges/42_level_13.png' width='200'>
-		   </a>
-	   </div>
+		<div style='display: flex; flex-direction: column; align-items: center;'>
+			<a href='https://www.credly.com/org/42/badge/42-cursus-developer-level-13'>
+			<!-- <a href='https://www.credly.com/org/42/badge/42-cursus-junior-developer-level-12'> -->
+				<img src='./_badges/42_level_13.png' width='200'>
+			</a>
+		</div>
 	<h3>Data Science</h3>
-	   <div style='display: flex; flex-direction: column; align-items: center;'>
-		   <a href='./_badges/TheBridge_DataScience_2024_Certificate.pdf'>
-			   <img src='./_badges/TheBridge_DataScience_2024_Badge.png' width='200'>
-		   </a>
-	   </div>
+		<div style='display: flex; flex-direction: column; align-items: center;'>
+			<a href='./_badges/TheBridge_DataScience_2024_Certificate.pdf'>
+				<img src='./_badges/TheBridge_DataScience_2024_Badge.png' width='200'>
+			</a>
+		</div>
 	<h3>Cybersecurity</h3>
-	   <div style='display: flex; flex-direction: column; align-items: center;'>
-		   <a href='https://www.credly.com/earner/earned/badge/9b00b626-1209-4edf-97fd-463096745842'>
-			   <img src='./_badges/Google_Cybersecurity Badge.png' width='200'>
-		   </a>
-	   </div>
+		<div style='display: flex; flex-direction: column; align-items: center;'>
+			<a href='https://www.credly.com/earner/earned/badge/9b00b626-1209-4edf-97fd-463096745842'>
+				<img src='./_badges/Google_Cybersecurity Badge.png' width='200'>
+			</a>
+		</div>
     <h3>Quantum Computing QClass 2025-2024-2023</h3>
-	   <a href='./_badges/QCourse501-2-48_Certificate.jpg'><img src='./_badges/QCourse501-2-48_Badge.jpg' height='150' width='300'></a>
-	   <br>
-	   <a href='./_badges/QCourse504-1-91_Certificate.jpg'><img src='./_badges/QCourse504-1-91_Badge.jpg' height='150' width='300'></a>
-	   <a href='./_badges/QCourse501-1-214_Certificate.jpg'><img src='./_badges/QCourse501-1-214_Badge.jpg' height='150' width='300'></a>
-	   <br>
+		<a href='./_badges/QCourse501-2-48_Certificate.jpg'><img src='./_badges/QCourse501-2-48_Badge.jpg' height='150' width='300'></a>
+		<br>
+		<a href='./_badges/QCourse501-2-48_Certificate.jpg'><img src='./_badges/QCourse501-2-48_Badge.jpg' height='150' width='300'></a>
+		<br>
+		<a href='./_badges/QCourse504-1-91_Certificate.jpg'><img src='./_badges/QCourse504-1-91_Badge.jpg' height='150' width='300'></a>
+		<a href='./_badges/QCourse501-1-214_Certificate.jpg'><img src='./_badges/QCourse501-1-214_Badge.jpg' height='150' width='300'></a>
+		<br>
 		<!-- <a href='./_badges/QTitanium1-12_Certificate.jpg'><img src='./_badges/QTitanium1-12_Badge.jpg' height='100' width='200'></a> -->
 		<!-- <a href='./_badges/QCobalt4-43_Certificate.jpg'><img src='./_badges/QCobalt4-43_Badge.jpg' height='100' width='200'></a> -->
 	<h3>IBM Quantum</h3>
