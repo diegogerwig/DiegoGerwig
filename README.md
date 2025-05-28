@@ -131,6 +131,10 @@
 			<img src="https://leetcode-badge-showcase.vercel.app/api?username=diegogerwig&theme=dark&border=border&animated=false" alt="LeetCode Badges" width="600px" style="position:absolute"/>
 		</a>
 		<br>
+		<a href="https://leetcode.com/u/diegogerwig/" target="_blank">
+			<img src="https://leetcode-badge-sage.vercel.app/badge/diegogerwig?theme=dark&bgColor=282828" alt="LeetCode Stats"/>
+		</a>
+		<br>
 		![](https://leetcode-badge-sage.vercel.app/badge/diegogerwig?theme=dark&bgColor=282828)
 </details>
 
