@@ -110,11 +110,11 @@
 			</a>
 		</div>
     <h3>Quantum Computing QClass 2025-2024-2023</h3>
-		<a href='https://lms.qureca.com/certificate-verifier/?code=2594-174-439-9511&v=12470fe406d4'><img src='./_badges/QURECA Certificate ADEQUATE Course 2025.png' height='150' width='300'></a>
-		<a href='./_badges/QCourse501-2-48_Certificate.jpg'><img src='./_badges/QCourse501-2-48_Badge.jpg' height='150' width='300'></a>
+		<a href='https://lms.qureca.com/certificate-verifier/?code=2594-174-439-9511&v=12470fe406d4'><img src='./_badges/QURECA Certificate ADEQUATE Course 2025.png' height='150' width='250'></a>
+		<a href='./_badges/QCourse501-2-48_Certificate.jpg'><img src='./_badges/QCourse501-2-48_Badge.jpg' height='150' width='250'></a>
 		<br>
-		<a href='./_badges/QCourse504-1-91_Certificate.jpg'><img src='./_badges/QCourse504-1-91_Badge.jpg' height='150' width='300'></a>
-		<a href='./_badges/QCourse501-1-214_Certificate.jpg'><img src='./_badges/QCourse501-1-214_Badge.jpg' height='150' width='300'></a>
+		<a href='./_badges/QCourse504-1-91_Certificate.jpg'><img src='./_badges/QCourse504-1-91_Badge.jpg' height='150' width='250'></a>
+		<a href='./_badges/QCourse501-1-214_Certificate.jpg'><img src='./_badges/QCourse501-1-214_Badge.jpg' height='150' width='250'></a>
 		<br>
 		<!-- <a href='./_badges/QTitanium1-12_Certificate.jpg'><img src='./_badges/QTitanium1-12_Badge.jpg' height='100' width='200'></a> -->
 		<!-- <a href='./_badges/QCobalt4-43_Certificate.jpg'><img src='./_badges/QCobalt4-43_Badge.jpg' height='100' width='200'></a> -->
