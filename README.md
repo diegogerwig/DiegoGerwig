@@ -130,6 +130,10 @@
 		<a href="https://leetcode.com/u/diegogerwig/" target="_blank">
 			<img src="https://leetcode-badge-showcase.vercel.app/api?username=diegogerwig&theme=dark&border=border&animated=false" alt="LeetCode Badges" width="600px" style="position:absolute"/>
 		</a>
+		<br>
+		<a href="https://leetcode.com/u/dmytrobaida/" target="_blank">
+			<img src="https://leetcode-badge-showcase.vercel.app/api?username=diegogerwig&theme=dark&border=border&animated=false" alt="LeetCode Badges" width="600px" style="position:absolute"/>
+		</a>
 </details>
 
 ---
