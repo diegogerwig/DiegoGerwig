@@ -118,6 +118,7 @@
 		<!-- <a href='./_badges/QTitanium1-12_Certificate.jpg'><img src='./_badges/QTitanium1-12_Badge.jpg' height='100' width='200'></a> -->
 		<!-- <a href='./_badges/QCobalt4-43_Certificate.jpg'><img src='./_badges/QCobalt4-43_Badge.jpg' height='100' width='200'></a> -->
 	<h3>IBM Quantum</h3>
+		<a href='https://www.credly.com/earner/earned/badge/2353885b-ae9d-4df9-996d-d00f5d7fff7f'><img src='./_badges/IBM_qiskit-global-summer-school-2024-quantum-excellence.png' width='200'></a>
 		<a href='https://www.credly.com/badges/7fce96fb-09f9-48c6-9f7c-d5118c3b9412'><img src='./_badges/IBM_quantum-challenge-2024.png' width='200'></a>
 		<a href='https://www.credly.com/badges/1dfa6b06-c443-4d56-b6e8-3375dd7ad03b'><img src='./_badges/IBM_quantum-explorer-2023-advanced.png' width='200'></a>
 		<a href='https://www.credly.com/badges/a27d052e-9609-4c30-aeb7-8b86ab0fd75a'><img src='./_badges/IBM_qiskit-global-summer-school-2023-quantum-excellence.png' width='200'></a>
