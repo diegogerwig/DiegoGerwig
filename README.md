@@ -131,13 +131,11 @@
 			<img src="https://leetcode-badge-showcase.vercel.app/api?username=diegogerwig&theme=dark&border=border&animated=false" alt="LeetCode Badges" width="600px" style="position:absolute"/>
 		</a>
 		<br>
-		<div style="border: 6px solid white; border-radius: 30px; display: inline-block;">
-			<a href="https://leetcode.com/u/diegogerwig/">
-				<img src="https://leetcode-badge-sage.vercel.app/badge/diegogerwig?theme=dark&bgColor=282828" 
-					alt="LeetCode Stats" 
-					width="500"/>
-			</a>
-		</div>
+		<a href="https://leetcode.com/u/diegogerwig/">
+			<img src="https://leetcode-badge-sage.vercel.app/badge/diegogerwig?theme=dark&bgColor=282828&border=white" 
+				alt="LeetCode Stats" 
+				width="600"/>
+		</a>
 </details>
 
 ---
