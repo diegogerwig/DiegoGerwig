@@ -134,7 +134,7 @@
 		<a href="https://leetcode.com/u/diegogerwig/" target="_blank">
 			<img src="https://leetcode-badge-sage.vercel.app/badge/diegogerwig?theme=dark&bgColor=282828" 
 				alt="LeetCode Stats" 
-				width="300" 
+				width="600" 
 				style="border: 6px solid white; border-radius: 30px;"/>
 		</a>
 </details>
