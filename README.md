@@ -126,7 +126,7 @@
 			<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode 2024 50 Days Badge" width="100px" style="position:absolute"/>
 		</a>
 		<a href="https://leetcode.com/u/diegogerwig/" target="_blank">
-			<img src="https://leetcode-badge-showcase.vercel.app/api?username=diegogerwig&animated=true" alt="LeetCode Badges" width="100px" style="position:absolute"/>
+			<img src="https://leetcode-badge-showcase.vercel.app/api?username=diegogerwig&theme=dark&border=border&animated=false" alt="LeetCode Badges" width="100px" style="position:absolute"/>
 		</a>
 <!-- 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<a href="https://leetcode.com/u/diegogerwig/" target="_blank">
