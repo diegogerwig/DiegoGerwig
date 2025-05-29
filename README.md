@@ -130,8 +130,7 @@
 		<a href="https://leetcode.com/u/diegogerwig/">
 			<img src="https://leetcode-badge-showcase.vercel.app/api?username=diegogerwig&theme=dark&border=border&animated=false" 
 				alt="LeetCode Badges" 
-				width="600px" 
-				style="position:absolute"/>
+				width="600px"/>
 		</a>
 		<br>
 		<a href="https://leetcode.com/u/diegogerwig/">
