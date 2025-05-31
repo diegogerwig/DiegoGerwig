@@ -127,11 +127,11 @@
 		<!-- <a href="https://leetcode.com/u/diegogerwig/" target="_blank">
 			<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode 2024 50 Days Badge" width="100px" style="position:absolute"/>
 		</a> -->
-		<!-- <a href="https://leetcode.com/u/diegogerwig/">
+		<a href="https://leetcode.com/u/diegogerwig/">
 			<img src="https://leetcode-badge-showcase.vercel.app/api?username=diegogerwig&theme=dark&border=border&animated=false" 
 				alt="LeetCode Badges" 
 				width="600px"/>
-		</a> -->
+		</a>
 		<br>
 		<a href="https://leetcode.com/u/diegogerwig/">
 			<img src="https://leetcode-badge-sage.vercel.app/badge/diegogerwig?theme=dark&bgColor=282828&border=border" 
