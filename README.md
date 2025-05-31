@@ -99,6 +99,11 @@
 		</div>
 	<h3>Data Science</h3>
 		<div style='display: flex; flex-direction: column; align-items: center;'>
+			<a href='https://www.credly.com/earner/earned/badge/453e876f-ba84-4a1d-b769-1e7aad435099'>
+				<img src='./_badges/IBM_data-science-professional-certificate-2025.png' width='200'>
+			</a>
+		</div>
+		<div style='display: flex; flex-direction: column; align-items: center;'>
 			<a href='./_badges/TheBridge_DataScience_2024_Certificate.pdf'>
 				<img src='./_badges/TheBridge_DataScience_2024_Badge.png' width='200'>
 			</a>
