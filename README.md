@@ -98,14 +98,14 @@
 			</a>
 		</div>
 	<h3>Data Science</h3>
-		<div style='display: flex; flex-direction: column; align-items: center;'>
-			<a href='https://www.credly.com/earner/earned/badge/453e876f-ba84-4a1d-b769-1e7aad435099'>
-				<img src='./_badges/IBM_data-science-professional-certificate-2025.png' width='200'>
-			</a>
-			<a href='./_badges/TheBridge_DataScience_2024_Certificate.pdf'>
-				<img src='./_badges/TheBridge_DataScience_2024_Badge.png' width='200'>
-			</a>
-		</div>
+		<!-- <div style='display: flex; flex-direction: column; align-items: center;'> -->
+		<a href='https://www.credly.com/earner/earned/badge/453e876f-ba84-4a1d-b769-1e7aad435099'>
+			<img src='./_badges/IBM_data-science-professional-certificate-2025.png' height='200'>
+		</a>
+		<a href='./_badges/TheBridge_DataScience_2024_Certificate.pdf'>
+			<img src='./_badges/TheBridge_DataScience_2024_Badge.png' height='200'>
+		</a>
+		<!-- </div> -->
 	<h3>Cybersecurity</h3>
 		<div style='display: flex; flex-direction: column; align-items: center;'>
 			<a href='https://www.credly.com/earner/earned/badge/9b00b626-1209-4edf-97fd-463096745842'>
