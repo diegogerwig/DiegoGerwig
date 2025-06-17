@@ -77,6 +77,7 @@
 		<a href='#'><img alt='Docker' src='https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white' height='25'></a>
 		<a href='#'><img alt='Jupyter' src='https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white' height='25'></a>
 		<a href='#'><img alt='Git' src='https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white' height='25'></a>
+		<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white" height="25"></a>
 		<a href='#'><img alt='Streamlit' src='https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white' height='25'></a>
 		<a href='#'><img alt='Django' src='https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=green' height='25'></a>
 		<a href='#'><img alt='Flask' src='https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white' height='25'></a>
