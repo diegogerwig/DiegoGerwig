@@ -100,7 +100,7 @@
 		</div>
 	<h3>GIT / GitHub</h3>
 		<div style='display: flex; flex-direction: column; align-items: center;'>
-			<a href='https://www.credly.com/org/github/badge/github-foundations'>
+			<a href='https://www.credly.com/earner/earned/badge/e9a23cb8-a03c-4587-bdc4-d49b6138e161'>
 				<img src='./_badges/GitHub_Foundations Badge.png' width='200'>
 			</a>
 		</div>
