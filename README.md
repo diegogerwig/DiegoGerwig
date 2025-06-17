@@ -151,7 +151,7 @@
 		<a href='#'>
 			<img width='50%' 
 			src='https://github-readme-streak-stats.herokuapp.com/?user=diegogerwig&theme=vue-dark&hide_border=false'
-			alt=''>
+			>
 		</a>
 		<a href='#'>
 			<img width='50%' 
