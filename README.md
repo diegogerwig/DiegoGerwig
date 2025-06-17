@@ -168,7 +168,7 @@
 			alt='Top Languages Stats - Failed to load'>
 		</a> -->
 		<br>
-		<br>
+		<span>Total time coded since May 2024  </span>
 		<a href='https://wakatime.com/@diegogerwig'>
 			<img width='30%'
 			src="https://wakatime.com/badge/user/a124cb58-405f-40c8-a801-6033e54c1f7d.svg"
