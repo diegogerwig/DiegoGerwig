@@ -170,36 +170,9 @@
 		<br>
 		<a href='https://wakatime.com/@diegogerwig'>
 			<img width='30%'
-			src="https://wakatime.com/badge/user/a124cb58-405f-40c8-a801-6033e54c1f7d.svg" 
-			alt='Wakatime Badge - Failed to load'>
-		</a>
-		<a href='https://wakatime.com/@diegogerwig'>
-			<img width='30%'
-			src="https://wakatime.com/badge/user/a124cb58-405f-40c8-a801-6033e54c1f7d.svg?style=default" 
-			alt='Wakatime Badge - Failed to load'>
-		</a>
-		<a href='https://wakatime.com/@diegogerwig'>
-			<img width='30%'
-			src="https://wakatime.com/badge/user/a124cb58-405f-40c8-a801-6033e54c1f7d.svg?style=plastic" 
-			alt='Wakatime Badge - Failed to load'>
-		</a>
-		<a href='https://wakatime.com/@diegogerwig'>
-			<img width='30%'
 			src="https://wakatime.com/badge/user/a124cb58-405f-40c8-a801-6033e54c1f7d.svg?style=flat" 
 			alt='Wakatime Badge - Failed to load'>
 		</a>
-		<a href='https://wakatime.com/@diegogerwig'>
-			<img width='30%'
-			src="https://wakatime.com/badge/user/a124cb58-405f-40c8-a801-6033e54c1f7d.svg?style=flat-square" 
-			alt='Wakatime Badge - Failed to load'>
-		</a>
-		<a href='https://wakatime.com/@diegogerwig'>
-			<img width='30%'
-			src="https://wakatime.com/badge/user/a124cb58-405f-40c8-a801-6033e54c1f7d.svg?style=for-the-badge" 
-			alt='Wakatime Badge - Failed to load'>
-		</a>		
-		
-
 		<br>
 		<a href='https://wakatime.com/@diegogerwig'>
 			<img width='70%' 
