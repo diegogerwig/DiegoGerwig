@@ -169,7 +169,7 @@
 		</a> -->
 		<br>
 		<div style="display: flex; align-items: center; gap: 10px;">
-			<span style="font-size: 1.2em;">Total time coded since May 2024</span>
+			<!-- <span style="font-size: 1.2em;">Total time coded since May 2024</span> -->
 			<a href='https://wakatime.com/@diegogerwig'>
 				<img width='30%'
 				src="https://wakatime.com/badge/user/a124cb58-405f-40c8-a801-6033e54c1f7d.svg"
