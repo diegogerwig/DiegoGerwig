@@ -184,18 +184,7 @@
 		<a href='https://github.com/ashutosh00710/github-readme-activity-graph'>
 			<img width='90%' 
 			alt="Activity Graph - Failed to load" 
-			src='https://github-readme-activity-graph.vercel.app/graph/?username=diegogerwig&hide_border=false&theme=github-dark-dimmed'>
-		</a>
-		<a href='https://github.com/ashutosh00710/github-readme-activity-graph'>
-			<img width='90%' 
-			alt="Activity Graph - Failed to load" 
 			src='https://github-readme-activity-graph.vercel.app/graph/?username=diegogerwig&hide_border=false&theme=vue'>
-		</a>
-		<a href='https://github.com/ashutosh00710/github-readme-activity-graph'>
-			<img width='90%' 
-				style="border-radius: 10px;"
-				alt="Activity Graph - Failed to load" 
-				src='https://github-readme-activity-graph.vercel.app/graph/?username=diegogerwig&hide_border=false&theme=vue'>
 		</a>
 	</div>
 </details>
