@@ -98,6 +98,12 @@
 				<img src='./_badges/42_level_13.png' width='200'>
 			</a>
 		</div>
+	<h3>GIT / GitHub</h3>
+		<div style='display: flex; flex-direction: column; align-items: center;'>
+			<a href='https://www.credly.com/org/github/badge/github-foundations'>
+				<img src='./_badges/GitHub_Foundations Badge.png' width='200'>
+			</a>
+		</div>
 	<h3>Data Science</h3>
 		<a href='https://www.credly.com/earner/earned/badge/453e876f-ba84-4a1d-b769-1e7aad435099'><img src='./_badges/IBM_data-science-professional-certificate-2025.png' height='200'></a>
 		<a href='https://www.credly.com/earner/earned/badge/d46011cf-6c61-4605-98c7-6ad2822203fe'><img src='./_badges/Google_Data-Analytics Badge.png' height='200'></a>
