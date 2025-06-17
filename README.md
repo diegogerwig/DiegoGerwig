@@ -176,7 +176,7 @@
 		<br>
 		<a href='https://wakatime.com/@diegogerwig'>
 			<img width='70%' 
-			src='https://github-readme-stats.vercel.app/api/wakatime?username=diegogerwig&hide_progress=false&layout=compact&custom_title=WAKATIME%20last%20year%20📈%Stats&hide_border=false&theme=vue-dark'
+			src='https://github-readme-stats.vercel.app/api/wakatime?username=diegogerwig&hide_progress=false&layout=compact&custom_title=WAKATIME%20%20%20%20%20📈last%20year%20stats&hide_border=false&theme=vue-dark'
 			alt='Wakatime Stats - Failed to load'>
 		</a>   
 		<br>
