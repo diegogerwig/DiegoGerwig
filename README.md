@@ -113,8 +113,6 @@
 		<div style='display: flex; flex-direction: column; align-items: center;'>
 			<a href='https://www.credly.com/earner/earned/badge/c7df9b7e-5cd0-44ea-9239-31a0595b7ee0'><img src='./_badges/IBM_Cybersecurity Certificate.png' width='200'>
 			</a>
-		</div>
-		<div style='display: flex; flex-direction: column; align-items: center;'>
 			<a href='https://www.credly.com/earner/earned/badge/9b00b626-1209-4edf-97fd-463096745842'><img src='./_badges/Google_Cybersecurity Badge.png' width='200'>
 			</a>
 		</div>
