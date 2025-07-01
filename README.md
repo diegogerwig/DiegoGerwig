@@ -110,10 +110,8 @@
 		<a href='https://www.credly.com/earner/earned/badge/d46011cf-6c61-4605-98c7-6ad2822203fe'><img src='./_badges/Google_Data-Analytics Badge.png' height='200'></a>
 		<a href='./_badges/TheBridge_DataScience_2024_Certificate.pdf'><img src='./_badges/TheBridge_DataScience_2024_Badge.png' height='200'></a>
 	<h3>Cybersecurity</h3>
-		<a href='https://www.credly.com/earner/earned/badge/c7df9b7e-5cd0-44ea-9239-31a0595b7ee0'><img src='./_badges/IBM_Cybersecurity Certificate.png' height='200'>
-		</a>
-		<a href='https://www.credly.com/earner/earned/badge/9b00b626-1209-4edf-97fd-463096745842'><img src='./_badges/Google_Cybersecurity Badge.png' height='200'>
-		</a>
+		<a href='https://www.credly.com/earner/earned/badge/c7df9b7e-5cd0-44ea-9239-31a0595b7ee0'><img src='./_badges/IBM_Cybersecurity Certificate.png' height='200'></a>
+		<a href='https://www.credly.com/earner/earned/badge/9b00b626-1209-4edf-97fd-463096745842'><img src='./_badges/Google_Cybersecurity Badge.png' height='200'></a>
     <h3>Quantum Computing QClass 2025-2024-2023</h3>
 		<a href='https://lms.qureca.com/certificate-verifier/?code=2594-174-439-9511&v=12470fe406d4'><img src='./_badges/QURECA Certificate ADEQUATE Course 2025.png' height='150' width='250'></a>
 		<a href='./_badges/QCourse501-2-48_Certificate.jpg'><img src='./_badges/QCourse501-2-48_Badge.jpg' height='150' width='250'></a>
