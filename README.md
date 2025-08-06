@@ -105,6 +105,7 @@
 	<h3>Data Science</h3>
 		<a href='https://www.credly.com/earner/earned/badge/453e876f-ba84-4a1d-b769-1e7aad435099'><img src='./_badges/IBM_data-science-professional-certificate-2025.png' height='200'></a>
 		<a href='https://www.credly.com/earner/earned/badge/d46011cf-6c61-4605-98c7-6ad2822203fe'><img src='./_badges/Google_Data-Analytics Badge.png' height='200'></a>
+		<a href='https://catalog-education.oracle.com/ords/certview/sharebadge?id=655E60B03D9CC5D8270C8C66DAAA0565CA951564A7A6BEA7235CE53ABC9680AC'><img src='./_badges/ORACLE_AI-Foundations-Associate_badge.png' height='200'></a>
 		<a href='./_badges/TheBridge_DataScience_2024_Certificate.pdf'><img src='./_badges/TheBridge_DataScience_2024_Badge.png' height='200'></a>
 	<h3>Cybersecurity</h3>
 		<a href='https://www.credly.com/earner/earned/badge/c7df9b7e-5cd0-44ea-9239-31a0595b7ee0'><img src='./_badges/IBM_Cybersecurity Certificate.png' height='200'></a>
