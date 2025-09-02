@@ -105,7 +105,7 @@
 	<h3>Data Science</h3>
 		<a href='https://www.credly.com/badges/453e876f-ba84-4a1d-b769-1e7aad435099'><img src='./_badges/IBM_data-science-professional-certificate-2025.png' height='200'></a>
 		<a href='https://www.credly.com/badges/d46011cf-6c61-4605-98c7-6ad2822203fe'><img src='./_badges/Google_Data-Analytics Badge.png' height='200'></a>
-		<a href='https://catalog-education.oracle.com/ords/certview/sharebadge?id=4014ABE33050C17E030C3FBCD4BEEC6C7B10E27526FB87ECC02B311A5769F59D'><img src='./_badges/ORACLE_Data_Science-Professional Badge.png' height='100'></a>
+		<!-- <a href='https://catalog-education.oracle.com/ords/certview/sharebadge?id=4014ABE33050C17E030C3FBCD4BEEC6C7B10E27526FB87ECC02B311A5769F59D'><img src='./_badges/ORACLE_Data_Science-Professional Badge.png' height='100'></a> -->
 		<a href='https://catalog-education.oracle.com/ords/certview/sharebadge?id=4014ABE33050C17E030C3FBCD4BEEC6C8B065515721C8525D589750CB2DA8609'><img src='./_badges/ORACLE_Data-Foundations-Associate Badge.png' height='200'></a>
 		<a href='./_badges/TheBridge_DataScience_2024_Certificate.pdf'><img src='./_badges/TheBridge_DataScience_2024_Badge.png' height='200'></a>
 	<h3>AI</h3>
