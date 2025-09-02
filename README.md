@@ -110,6 +110,7 @@
 		<a href='./_badges/TheBridge_DataScience_2024_Certificate.pdf'><img src='./_badges/TheBridge_DataScience_2024_Badge.png' height='200'></a>
 	<h3>AI</h3>
 		<a href='https://catalog-education.oracle.com/ords/certview/sharebadge?id=655E60B03D9CC5D8270C8C66DAAA0565CA951564A7A6BEA7235CE53ABC9680AC'><img src='./_badges/ORACLE_AI-Foundations-Associate Badge.png' height='200'></a>
+		<a href='https://catalog-education.oracle.com/ords/certview/sharebadge?id=4014ABE33050C17E030C3FBCD4BEEC6C7B10E27526FB87ECC02B311A5769F59D'><img src='./_badges/ORACLE_Data_Science-Professional Badge.png' height='100'></a>
 	<h3>Cybersecurity</h3>
 		<a href='https://www.credly.com/badges/c7df9b7e-5cd0-44ea-9239-31a0595b7ee0'><img src='./_badges/IBM_Cybersecurity Certificate.png' height='200'></a>
 		<a href='https://www.credly.com/badges/9b00b626-1209-4edf-97fd-463096745842'><img src='./_badges/Google_Cybersecurity Badge.png' height='200'></a>
