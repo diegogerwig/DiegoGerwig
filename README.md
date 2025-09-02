@@ -112,7 +112,7 @@
 	<h3>Cybersecurity</h3>
 		<a href='https://www.credly.com/badges/c7df9b7e-5cd0-44ea-9239-31a0595b7ee0'><img src='./_badges/IBM_Cybersecurity Certificate.png' height='200'></a>
 		<a href='https://www.credly.com/badges/9b00b626-1209-4edf-97fd-463096745842'><img src='./_badges/Google_Cybersecurity Badge.png' height='200'></a>
-		<a href='https://www.credly.com/badges/f890e985-3dc6-483a-9815-a5e6b29e1c65'><img src='./_badgeS/LYNUX_FOUNDATION_lfd125-security-for-software-development-managers.png' height='200'></a>
+		<a href='https://www.credly.com/badges/f890e985-3dc6-483a-9815-a5e6b29e1c65'><img src='./_badges/LYNUX_FOUNDATION_lfd125-security-for-software-development-managers.png' height='200'></a>
 	<h3>Project Management</h3>
 		<a href='https://www.coursera.org/account/accomplishments/professional-cert/F656MODE8TKQ'><img src='./_badges/Google_Project_Management Badge.png' height='200'></a>
 	<h3>Quantum Computing</h3>
