@@ -94,9 +94,8 @@
     <summary><h2>🏆 Licenses & Certifications </h2></summary>
     <h3>42 Network</h3>
 		<div style='display: flex; flex-direction: column; align-items: center;'>
-			<a href='https://www.credly.com/org/42/badge/42-cursus-developer-level-13'>
-			<!-- <a href='https://www.credly.com/org/42/badge/42-cursus-junior-developer-level-12'> -->
-				<img src='./_badges/42_level_13.png' width='200'></a>
+			<a href='https://www.credly.com/org/42/badge/42-cursus-developer-level-12'><img src='./_badges/42_level_12.png' width='200'></a>
+			<a href='https://www.credly.com/org/42/badge/42-cursus-developer-level-13'><img src='./_badges/42_level_13.png' width='200'></a>
 		</div>
 	<h3>Full Stack</h3>
 		<div style='display: flex; flex-direction: column; align-items: center;'>
