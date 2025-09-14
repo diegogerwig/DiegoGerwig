@@ -91,17 +91,20 @@
 ---
 
 <details> 
-   <summary><h2>🏆 Licenses & Certifications </h2></summary>
-   <h3>42 Network</h3>
+    <summary><h2>🏆 Licenses & Certifications </h2></summary>
+    <h3>42 Network</h3>
 		<div style='display: flex; flex-direction: column; align-items: center;'>
 			<a href='https://www.credly.com/org/42/badge/42-cursus-developer-level-13'>
 			<!-- <a href='https://www.credly.com/org/42/badge/42-cursus-junior-developer-level-12'> -->
-				<img src='./_badges/42_level_13.png' width='200'>
-			</a>
+				<img src='./_badges/42_level_13.png' width='200'></a>
+		</div>
+	<h3>Full Stack</h3>
+		<div style='display: flex; flex-direction: column; align-items: center;'>
+			<a href='https://www.credly.com/org/42/badge/42-cursus-developer-level-13'><img src='./_badges/42_level_13.png' width='200'></a>
 		</div>
 	<h3>GIT / GitHub</h3>
 		<a href='https://www.credly.com/badges/e9a23cb8-a03c-4587-bdc4-d49b6138e161'>
-			<img src='./_badges/GitHub_Foundations Badge.png' height='200'></a>
+		<img src='./_badges/GitHub_Foundations Badge.png' height='200'></a>
 	<h3>Data Science</h3>
 		<a href='https://www.credly.com/badges/453e876f-ba84-4a1d-b769-1e7aad435099'><img src='./_badges/IBM_data-science-professional-certificate-2025.png' height='200'></a>
 		<a href='https://www.credly.com/badges/d46011cf-6c61-4605-98c7-6ad2822203fe'><img src='./_badges/Google_Data-Analytics Badge.png' height='200'></a>
