@@ -108,7 +108,7 @@
 		<a href='https://catalog-education.oracle.com/ords/certview/sharebadge?id=4014ABE33050C17E030C3FBCD4BEEC6C7B10E27526FB87ECC02B311A5769F59D'><img src='./_badges/ORACLE_Data_science-Professional Badge.png' height='200'></a>
 		<a href='https://catalog-education.oracle.com/ords/certview/sharebadge?id=4014ABE33050C17E030C3FBCD4BEEC6C8B065515721C8525D589750CB2DA8609'><img src='./_badges/ORACLE_Data-Foundations-Associate Badge.png' height='200'></a>
 		<a href='./_badges/TheBridge_DataScience_2024_Certificate.pdf'><img src='./_badges/TheBridge_DataScience_2024_Badge.png' height='200'></a>
-	<h3>AI</h3> 
+	<h3>AI</h3>
 		<a href='https://catalog-education.oracle.com/ords/certview/sharebadge?id=FB9EE4505F72A476F22AC52AAFA4DA0083141D5F99B660283EF91F6598529FCE'><img src='./_badges/ORACLE_AI-Generative_Professional Badge.png' height='200'></a>
 		<a href='https://catalog-education.oracle.com/ords/certview/sharebadge?id=655E60B03D9CC5D8270C8C66DAAA0565CA951564A7A6BEA7235CE53ABC9680AC'><img src='./_badges/ORACLE_AI-Foundations-Associate Badge.png' height='200'></a>
 	<h3>Cloud</h3>
