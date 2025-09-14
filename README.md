@@ -94,12 +94,12 @@
     <summary><h2>🏆 Licenses & Certifications </h2></summary>
     <h3>42 Network</h3>
 		<div style='display: flex; flex-direction: column; align-items: center;'>
-			<a href='https://www.credly.com/org/42/badge/42-cursus-developer-level-13'><img src='./_badges/42_level_13.png' width='150'></a>
-			<!-- <a href='https://www.credly.com/org/42/badge/42-cursus-developer-level-12'><img src='./_badges/42_level_12.png' width='150'></a> -->
+			<a href='https://www.credly.com/org/42/badge/42-cursus-developer-level-13'><img src='./_badges/42_level_13.png' height='150'></a>
+			<!-- <a href='https://www.credly.com/org/42/badge/42-cursus-developer-level-12'><img src='./_badges/42_level_12.png' height='150'></a> -->
 		</div>
 	<!-- <h3>Full Stack</h3>
 		<div style='display: flex; flex-direction: column; align-items: center;'>
-			<a href='https://www.credly.com/org/42/badge/42-cursus-developer-level-13'><img src='./_badges/BOTTEGA_devCamp Badge.png' width='150'></a>
+			<a href='https://www.credly.com/org/42/badge/42-cursus-developer-level-13'><img src='./_badges/BOTTEGA_devCamp Badge.png' height='150'></a>
 		</div> -->
 	<h3>GIT / GitHub</h3>
 		<a href='https://www.credly.com/badges/e9a23cb8-a03c-4587-bdc4-d49b6138e161'>
