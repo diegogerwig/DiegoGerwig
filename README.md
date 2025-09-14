@@ -98,10 +98,10 @@
 			<!-- <a href='https://www.credly.com/org/42/badge/42-cursus-junior-developer-level-12'> -->
 				<img src='./_badges/42_level_13.png' width='200'></a>
 		</div>
-	<!-- <h3>Full Stack</h3>
+	<h3>Full Stack</h3>
 		<div style='display: flex; flex-direction: column; align-items: center;'>
 			<a href='https://www.credly.com/org/42/badge/42-cursus-developer-level-13'><img src='./_badges/BOTTEGA_devCamp Badge.png' width='200'></a>
-		</div> -->
+		</div>
 	<h3>GIT / GitHub</h3>
 		<a href='https://www.credly.com/badges/e9a23cb8-a03c-4587-bdc4-d49b6138e161'>
 		<img src='./_badges/GitHub_Foundations Badge.png' height='200'></a>
