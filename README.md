@@ -132,12 +132,17 @@
 		<a href='https://www.credly.com/badges/8aab3a7d-bb0c-437d-af97-161ec79b98a5'><img src='./_badges/LYNUX_FOUNDATION_lfq101-fundamentals-of-quantum-computing.png' width='150'></a>
 		<a href='https://www.credly.com/badges/602756a2-0f05-47bf-801f-473b7ec12240'><img src='./_badges/LYNUX_FOUNDATION_lfq102-quantum-computing-essentials-for-senior-lead.png' width='150'></a>
 		<br>
-		<a href='https://lms.qureca.com/certificate-verifier/?code=2594-174-439-9511&v=12470fe406d4'><img src='./_badges/QURECA Certificate ADEQUATE Course 2025.png' height='150' width='250'></a>
+		<!-- <a href='https://lms.qureca.com/certificate-verifier/?code=2594-174-439-9511&v=12470fe406d4'><img src='./_badges/QURECA Certificate ADEQUATE Course 2025.png' height='150' width='250'></a> -->
 		<a href='./_badges/QCourse501-2-48_Certificate.jpg'><img src='./_badges/QCourse501-2-48_Badge.jpg' height='150' width='250'></a>
-		<br>
 		<a href='./_badges/QCourse504-1-91_Certificate.jpg'><img src='./_badges/QCourse504-1-91_Badge.jpg' height='150' width='250'></a>
 		<a href='./_badges/QCourse501-1-214_Certificate.jpg'><img src='./_badges/QCourse501-1-214_Badge.jpg' height='150' width='250'></a>
 		<br>
+	<h3>TryHackMe</h3>
+		<div>
+			<p>
+				<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1193081" style='border:none;'></iframe>
+			</p>
+		</div>
 	<h3>LeetCode</h3>
 		<!-- <a href="https://leetcode.com/u/diegogerwig/" target="_blank">
 			<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode 2024 50 Days Badge" width="100px" style="position:absolute"/>
