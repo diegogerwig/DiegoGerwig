@@ -144,7 +144,7 @@
 			</p>
 			<p>
 				<a href="https://leetcode.com/u/diegogerwig/">
-					<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1193081" style='border:none;'>
+					<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1193081"/>
 				</a>
 			</p>
 		</div>
