@@ -140,10 +140,7 @@
 	<h3>TryHackMe</h3>
 		<div>
 			<p>
-				<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1193081" style='border:none;'></iframe>
-			</p>
-			<p>
-				<a href="https://leetcode.com/u/diegogerwig/">
+				<a href="https://tryhackme.com/p/diegogerwig">
 					<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1193081"/>
 				</a>
 			</p>
