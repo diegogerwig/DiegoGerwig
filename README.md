@@ -140,7 +140,7 @@
 	<h3>TryHackMe</h3>
 		<div>
 			<p>
-				<a href="https://tryhackme.com/p/1193081">
+				<a href="https://tryhackme.com/p/diegogerwig" target="_blank">
 					<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1193081"/>
 				</a>
 			</p>
