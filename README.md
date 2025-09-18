@@ -141,7 +141,7 @@
 		<div>
 			<p>
 				<a href="https://tryhackme.com/p/diegogerwig" target="_blank">
-					<img src="https://tryhackme-badges.s3.amazonaws.com/diegogerwig.png"/>
+					<img src="https://tryhackme-badges.s3.amazonaws.com/diegogerwig.png" width="400px"/>
 				</a>
 			</p>
 		</div>
