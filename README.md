@@ -139,6 +139,9 @@
 		<br>
 	<h3>TryHackMe</h3>
 		<div>
+		[Mi perfil en TryHackMe](https://tryhackme.com/p/1193081)
+		[![TryHackMe](https://img.shields.io/badge/TryHackMe-1193081-brightgreen)](https://tryhackme.com/p/1193081)
+		[![TryHackMe](assets/tryhackme-badge.svg)](https://tryhackme.com/p/1193081)
 			<p>
 				<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1193081" style='border:none;'></iframe>
 			</p>
