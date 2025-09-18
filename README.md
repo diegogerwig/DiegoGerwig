@@ -142,7 +142,7 @@
 		<div>
 			<p>
 				<a href="https://tryhackme.com/p/diegogerwig" target="_blank">
-					<img src="https://tryhackme-badges.s3.amazonaws.com/diegogerwig.png" width="400px"/>
+					<img src="https://tryhackme-badges.s3.amazonaws.com/diegogerwig.png" width="400px">
 				</a>
 			</p>
 		</div>
@@ -153,14 +153,16 @@
 		<div>
 			<p>
 				<a href="https://leetcode.com/u/diegogerwig/">
-					<img src="https://leetcode-badge-showcase.vercel.app/api?username=diegogerwig&theme=dark&border=border&animated=false" 
-						width="400px"/>
+					<img width="400px"
+					src="https://leetcode-badge-showcase.vercel.app/api?username=diegogerwig&theme=dark&border=border&animated=false" 
+					alt=''>
 				</a>
 			</p>
 			<p>
 				<a href="https://leetcode.com/u/diegogerwig/">
-					<img src="https://leetcode-badge-sage.vercel.app/badge/diegogerwig?theme=dark&bgColor=282828&border=border" 
-						width="400px"/>
+					<img width="400px"
+					src="https://leetcode-badge-sage.vercel.app/badge/diegogerwig?theme=dark&bgColor=282828&border=border" 
+					alt=''>
 				</a>
 			</p>
 		</div>
@@ -174,8 +176,8 @@
 		<p>
 			<a href='#'>
 				<img width='50%' 
-				src='https://github-readme-streak-stats.herokuapp.com/?user=diegogerwig&theme=vue-dark&hide_border=false' alt=''
-				>
+				src='https://github-readme-streak-stats.herokuapp.com/?user=diegogerwig&theme=vue-dark&hide_border=false' 
+				alt=''>
 			</a>
 		</p>
 		<p>
