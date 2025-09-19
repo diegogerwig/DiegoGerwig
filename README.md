@@ -146,7 +146,7 @@
 				</a>
 			</p>
 			<p>
-				[![TryHackMe](https://img.shields.io/badge/TryHackMe-427529pts--Novice-red?logo=tryhackme)](https://tryhackme.com/p/diegogerwig)
+				[![TryHackMe Profile](https://tryhackme-badges.s3.amazonaws.com/diegogerwig.png)](https://tryhackme.com/p/diegogerwig)
 			</p>
 		</div>
 	<h3>LeetCode</h3>
