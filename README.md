@@ -152,7 +152,7 @@
 			</p>
 			<p>
 				<a href="https://tryhackme.com/p/diegogerwig" target="_blank">
-					<img src="https://www.hackthebox.com/badge/image/HTB-FF5B67147D" width="400px" alt=''>
+					<img src="https://www.hackthebox.com/badge/image/FF5B67147D" width="400px" alt=''>
 				</a>
 			</p>
 		</div>
