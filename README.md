@@ -145,8 +145,10 @@
 					<img src="https://tryhackme-badges.s3.amazonaws.com/diegogerwig.png" width="400px">
 				</a>
 			</p>
-			<p>
-				[![TryHackMe Profile](https://tryhackme-badges.s3.amazonaws.com/diegogerwig.png)](https://tryhackme.com/p/diegogerwig)
+			<p align="center">
+				<a href="https://tryhackme.com/p/diegogerwig" target="_blank">
+					<img src="https://tryhackme-badges.s3.amazonaws.com/diegogerwig.png" width="400px">
+				</a>
 			</p>
 		</div>
 	<h3>LeetCode</h3>
