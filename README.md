@@ -153,7 +153,7 @@
 	<h3>HackTheBox</h3>
 		<div>
 			<p>
-				<a href="" target="_blank">
+				<a href="https://app.hackthebox.com/profile/1128920" target="_blank">
 					<img 
 					src="https://www.hackthebox.com/badge/image/1128920" 
 					width="400px" 
