@@ -142,17 +142,17 @@
 		<div>
 			<p>
 				<a href="https://tryhackme.com/p/diegogerwig" target="_blank">
-					<img src="https://tryhackme-badges.s3.amazonaws.com/diegogerwig.png" width="400px">
+					<img src="https://tryhackme-badges.s3.amazonaws.com/diegogerwig.png" width="400px" alt=''>
 				</a>
 			</p>
 			<p>
 				<a href="https://tryhackme.com/p/diegogerwig" target="_blank">
-					<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1193081" width="400px">
+					<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1193081" width="400px" alt=''>
 				</a>
 			</p>
 			<p>
 				<a href="https://tryhackme.com/p/diegogerwig" target="_blank">
-					<img src="https://www.hackthebox.com/badge/image/HTB-FF5B67147D" width="400px">
+					<img src="https://www.hackthebox.com/badge/image/HTB-FF5B67147D" width="400px" alt=''>
 				</a>
 			</p>
 		</div>
