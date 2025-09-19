@@ -145,11 +145,6 @@
 					<img src="https://tryhackme-badges.s3.amazonaws.com/diegogerwig.png" width="400px">
 				</a>
 			</p>
-			<p align="center">
-				<a href="https://tryhackme.com/p/diegogerwig" target="_blank">
-					<img src="https://tryhackme-badges.s3.amazonaws.com/diegogerwig.png" width="400px">
-				</a>
-			</p>
 		</div>
 	<h3>LeetCode</h3>
 		<!-- <a href="https://leetcode.com/u/diegogerwig/" target="_blank">
