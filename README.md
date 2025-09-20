@@ -150,6 +150,36 @@
 				</a>
 			</p>
 		</div>
+		<div>
+			<p>
+				<a href="https://tryhackme.com/p/diegogerwig" target="_blank">
+					<img 
+					src="https://tryhackme-badges.s3.amazonaws.com/diegogerwig.png?v=1" 
+					width="400px" 
+					alt="TryHackMe Badge">
+				</a>
+			</p>
+		</div>
+		<div>
+			<p>
+				<a href="https://tryhackme.com/p/diegogerwig" target="_blank">
+					<img 
+					src="https://tryhackme-badges.s3.amazonaws.com/diegogerwig.png?t=202409" 
+					width="400px" 
+					alt="TryHackMe Badge">
+				</a>
+			</p>
+		</div>
+		<div>
+			<p>
+				<a href="https://tryhackme.com/p/diegogerwig" target="_blank">
+					<img 
+					src="https://camo.githubusercontent.com/tryhackme-badges.s3.amazonaws.com/diegogerwig.png" 
+					width="400px" 
+					alt="TryHackMe Badge">
+				</a>
+			</p>
+		</div>
 	<!-- <h3>HackTheBox</h3>
 		<div>
 			<p>
@@ -168,33 +198,6 @@
 					<img width="400px"
 					src="https://github.r2v.ch/codewars?user=diegogerwig" 
 					alt="" />
-				</a>
-			</p>
-		</div>
-		<div>
-			<p>
-				<a href="https://www.codewars.com/users/diegogerwig" target="_blank">
-					<img width="400px"
-					src="https://github.r2v.ch/codewars?user=diegogerwig&v=1" 
-					alt="Codewars Badge" />
-				</a>
-			</p>
-		</div>
-		<div>
-			<p>
-				<a href="https://www.codewars.com/users/diegogerwig" target="_blank">
-					<img width="400px"
-					src="https://www.codewars.com/users/diegogerwig/badges/large" 
-					alt="Codewars Badge" />
-				</a>
-			</p>
-		</div>
-		<div>
-			<p>
-				<a href="https://www.codewars.com/users/diegogerwig" target="_blank">
-					<img width="400px"
-					src="https://img.shields.io/badge/dynamic/json?color=red&label=Codewars&query=%24.honor&suffix=%20honor&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2Fdiegogerwig" 
-					alt="Codewars Honor" />
 				</a>
 			</p>
 		</div>
