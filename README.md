@@ -161,12 +161,18 @@
 				</a>
 			</p>
 		</div> -->
+	<h3>Codewars</h3>
+		<div>
+			<p>
+				<a href="https://www.codewars.com/users/diegogerwig" target="_blank">
+					<img src="https://github.r2v.ch/codewars?user=diegogerwig" alt="Codewars - diegogerwig" />
+				</a>
+			</p>
+		</div>
 	<h3>LeetCode</h3>
 		<!-- <a href="https://leetcode.com/u/diegogerwig/" target="_blank">
 			<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode 2024 50 Days Badge" width="100px" style="position:absolute"/>
 		</a> -->
-		### Codewars
-		[![Codewars](https://www.codewars.com/users/diegogerwig/badges/large)](https://www.codewars.com/users/diegogerwig)
 		<div>
 			<p>
 				<a href="https://leetcode.com/u/diegogerwig/">
