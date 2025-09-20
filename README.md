@@ -165,7 +165,9 @@
 		<div>
 			<p>
 				<a href="https://www.codewars.com/users/diegogerwig" target="_blank">
-					<img src="https://github.r2v.ch/codewars?user=diegogerwig" alt="Codewars - diegogerwig" />
+					<img width="400px"
+					src="https://github.r2v.ch/codewars?user=diegogerwig" 
+					alt="" />
 				</a>
 			</p>
 		</div>
