@@ -139,7 +139,7 @@
 		<a href='./_badges/QCourse504-1-91_Certificate.jpg'><img src='./_badges/QCourse504-1-91_Badge.jpg' height='150' width='250'></a>
 		<a href='./_badges/QCourse501-1-214_Certificate.jpg'><img src='./_badges/QCourse501-1-214_Badge.jpg' height='150' width='250'></a>
 		<br>
-	<!-- <h3>TryHackMe</h3>
+	<h3>TryHackMe</h3>
 		<div>
 			<p>
 				<a href="https://tryhackme.com/p/diegogerwig" target="_blank">
@@ -150,7 +150,7 @@
 				</a>
 			</p>
 		</div>
-	<h3>HackTheBox</h3>
+	<!-- <h3>HackTheBox</h3>
 		<div>
 			<p>
 				<a href="https://app.hackthebox.com/profile/1128920" target="_blank">
