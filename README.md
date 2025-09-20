@@ -139,7 +139,7 @@
 		<a href='./_badges/QCourse504-1-91_Certificate.jpg'><img src='./_badges/QCourse504-1-91_Badge.jpg' height='150' width='250'></a>
 		<a href='./_badges/QCourse501-1-214_Certificate.jpg'><img src='./_badges/QCourse501-1-214_Badge.jpg' height='150' width='250'></a>
 		<br>
-	<h3>TryHackMe</h3>
+	<!-- <h3>TryHackMe</h3>
 		<div>
 			<p>
 				<a href="https://tryhackme.com/p/diegogerwig" target="_blank">
@@ -160,7 +160,7 @@
 					alt=''>
 				</a>
 			</p>
-		</div>
+		</div> -->
 	<h3>LeetCode</h3>
 		<!-- <a href="https://leetcode.com/u/diegogerwig/" target="_blank">
 			<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode 2024 50 Days Badge" width="100px" style="position:absolute"/>
