@@ -1,0 +1,40 @@
+name: Update TryHackMe Badge Daily
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Cada día a las 6:00 AM UTC
+  workflow_dispatch:     # Ejecutar manualmente
+
+jobs:
+  update-tryhackme-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Update TryHackMe badge cache
+        run: |
+          CURRENT_TIME=$(date +%Y%m%d)
+          
+          echo "Actualizando TryHackMe badge con timestamp: $CURRENT_TIME"
+          
+          # Solo actualizar el badge de TryHackMe
+          sed -i "s|tryhackme-badges\.s3\.amazonaws\.com/diegogerwig\.png?v=[0-9]*|tryhackme-badges.s3.amazonaws.com/diegogerwig.png?v=$CURRENT_TIME|g" README.md
+          
+          # Si no tiene parámetro v=, agregarlo
+          sed -i "s|tryhackme-badges\.s3\.amazonaws\.com/diegogerwig\.png\"|tryhackme-badges.s3.amazonaws.com/diegogerwig.png?v=$CURRENT_TIME\"|g" README.md
+          
+          echo "✅ TryHackMe badge actualizado"
+          
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'TryHackMe Badge Bot'
+          git config --global user.email 'thm-badge-bot@users.noreply.github.com'
+          
+          if git diff --exit-code; then
+            echo "No hay cambios en el badge de TryHackMe"
+          else
+            git add README.md
+            git commit -m "🛡️ Update TryHackMe badge cache - $(date +%Y-%m-%d)"
+            git push
+          fi

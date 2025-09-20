@@ -144,37 +144,7 @@
 			<p>
 				<a href="https://tryhackme.com/p/diegogerwig" target="_blank">
 					<img 
-					src="https://tryhackme-badges.s3.amazonaws.com/diegogerwig.png" 
-					width="400px" 
-					alt=''>
-				</a>
-			</p>
-		</div>
-		<div>
-			<p>
-				<a href="https://tryhackme.com/p/diegogerwig" target="_blank">
-					<img 
 					src="https://tryhackme-badges.s3.amazonaws.com/diegogerwig.png?v=1" 
-					width="400px" 
-					alt="TryHackMe Badge">
-				</a>
-			</p>
-		</div>
-		<div>
-			<p>
-				<a href="https://tryhackme.com/p/diegogerwig" target="_blank">
-					<img 
-					src="https://tryhackme-badges.s3.amazonaws.com/diegogerwig.png?t=202409" 
-					width="400px" 
-					alt="TryHackMe Badge">
-				</a>
-			</p>
-		</div>
-		<div>
-			<p>
-				<a href="https://tryhackme.com/p/diegogerwig" target="_blank">
-					<img 
-					src="https://camo.githubusercontent.com/tryhackme-badges.s3.amazonaws.com/diegogerwig.png" 
 					width="400px" 
 					alt="TryHackMe Badge">
 				</a>
