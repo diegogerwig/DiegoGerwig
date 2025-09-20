@@ -171,6 +171,33 @@
 				</a>
 			</p>
 		</div>
+		<div>
+			<p>
+				<a href="https://www.codewars.com/users/diegogerwig" target="_blank">
+					<img width="400px"
+					src="https://github.r2v.ch/codewars?user=diegogerwig&v=1" 
+					alt="Codewars Badge" />
+				</a>
+			</p>
+		</div>
+		<div>
+			<p>
+				<a href="https://www.codewars.com/users/diegogerwig" target="_blank">
+					<img width="400px"
+					src="https://www.codewars.com/users/diegogerwig/badges/large" 
+					alt="Codewars Badge" />
+				</a>
+			</p>
+		</div>
+		<div>
+			<p>
+				<a href="https://www.codewars.com/users/diegogerwig" target="_blank">
+					<img width="400px"
+					src="https://img.shields.io/badge/dynamic/json?color=red&label=Codewars&query=%24.honor&suffix=%20honor&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2Fdiegogerwig" 
+					alt="Codewars Honor" />
+				</a>
+			</p>
+		</div>
 	<h3>LeetCode</h3>
 		<!-- <a href="https://leetcode.com/u/diegogerwig/" target="_blank">
 			<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode 2024 50 Days Badge" width="100px" style="position:absolute"/>
