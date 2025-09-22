@@ -10,19 +10,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4  # Actualizado a v4
         
       - name: Update TryHackMe badge cache
         run: |
-          CURRENT_TIME=$(date +%Y%m%d)
+          CURRENT_TIME=$(date +%Y%m%d%H%M)  # Agregado hora y minutos para más precisión
           
           echo "Actualizando TryHackMe badge con timestamp: $CURRENT_TIME"
           
-          # Solo actualizar el badge de TryHackMe
-          sed -i "s|tryhackme-badges\.s3\.amazonaws\.com/diegogerwig\.png?v=[0-9]*|tryhackme-badges.s3.amazonaws.com/diegogerwig.png?v=$CURRENT_TIME|g" README.md
+          # Mostrar contenido actual para debugging
+          echo "Contenido actual del badge:"
+          grep -n "tryhackme-badges" README.md || echo "No se encontró el badge"
+          
+          # Actualizar el badge de TryHackMe (escapando el ? literal)
+          sed -i "s|tryhackme-badges\.s3\.amazonaws\.com/diegogerwig\.png\?v=[0-9]*|tryhackme-badges.s3.amazonaws.com/diegogerwig.png?v=$CURRENT_TIME|g" README.md
           
           # Si no tiene parámetro v=, agregarlo
           sed -i "s|tryhackme-badges\.s3\.amazonaws\.com/diegogerwig\.png\"|tryhackme-badges.s3.amazonaws.com/diegogerwig.png?v=$CURRENT_TIME\"|g" README.md
+          
+          echo "Contenido después de la actualización:"
+          grep -n "tryhackme-badges" README.md || echo "No se encontró el badge"
           
           echo "✅ TryHackMe badge actualizado"
           
@@ -31,10 +38,15 @@ jobs:
           git config --global user.name 'TryHackMe Badge Bot'
           git config --global user.email 'thm-badge-bot@users.noreply.github.com'
           
-          if git diff --exit-code; then
+          # Mostrar cambios para debugging
+          echo "Cambios detectados:"
+          git diff README.md
+          
+          if git diff --exit-code README.md; then
             echo "No hay cambios en el badge de TryHackMe"
           else
             git add README.md
             git commit -m "🛡️ Update TryHackMe badge cache - $(date +%Y-%m-%d)"
             git push
+            echo "✅ Cambios pushed exitosamente"
           fi
