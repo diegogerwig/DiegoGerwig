@@ -147,7 +147,7 @@
 			<p>
 				<a href="https://tryhackme.com/p/diegogerwig" target="_blank">
 					<img 
-					src="https://tryhackme-badges.s3.amazonaws.com/diegogerwig.png?v=11" 
+					src="https://tryhackme-badges.s3.amazonaws.com/diegogerwig.png?v=20251001" 
 					width="400px" 
 					alt="TryHackMe Badge">
 				</a>
