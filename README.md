@@ -115,6 +115,7 @@
 		<a href='https://catalog-education.oracle.com/ords/certview/sharebadge?id=2911B28024EBA113EB2325CA17E0DA1C3F9887685DEE0261FA00D3FC1312A4B7'><img src='./_badges/ORACLE_AI-Vector-Search-Certified Professional.png' height='150'></a>
 		<a href='https://catalog-education.oracle.com/ords/certview/sharebadge?id=655E60B03D9CC5D8270C8C66DAAA0565CA951564A7A6BEA7235CE53ABC9680AC'><img src='./_badges/ORACLE_AI-Foundations-Associate Badge.png' height='150'></a>
 	<h3>Cloud</h3>
+		<a href='https://catalog-education.oracle.com/ords/certview/sharebadge?id=E1957E2AD6FA8E196DD91652205B9A79B4CED2FDCEDCA8A9A6E5CCEA5FE8670B'><img src='./_badges/ORACLE_Cloud-Multicloud-Architect Professional.png' height='150'></a>
 		<a href='https://catalog-education.oracle.com/ords/certview/sharebadge?id=7A97439BFC6FD7D0994AA66364668F01937FBB40E4E7283F0668DE2E6E000D33'><img src='./_badges/ORACLE_Cloud-Developer-Professional Badge.png' height='150'></a>
 		<a href='https://catalog-education.oracle.com/ords/certview/sharebadge?id=06C63D4E009108A87AFC0C29C8DB816E5B69D4C5373612338DCEFCCDD7D5381D'><img src='./_badges/ORACLE_Cloud-Foundations-Associate Badge.png' height='150'></a>
 	<h3>Cybersecurity</h3>
