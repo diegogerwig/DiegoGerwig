@@ -112,6 +112,7 @@
 		<a href='./_badges/TheBridge_DataScience_2024_Certificate.pdf'><img src='./_badges/TheBridge_DataScience_2024_Badge.png' height='150'></a>
 	<h3>AI</h3>
 		<a href='https://catalog-education.oracle.com/ords/certview/sharebadge?id=FB9EE4505F72A476F22AC52AAFA4DA0083141D5F99B660283EF91F6598529FCE'><img src='./_badges/ORACLE_AI-Generative_Professional Badge.png' height='150'></a>
+		<a href='https://catalog-education.oracle.com/ords/certview/sharebadge?id=2911B28024EBA113EB2325CA17E0DA1C3F9887685DEE0261FA00D3FC1312A4B7'><img src='./_badges/ORACLE_AI-Vector-Search-Certified Professional.png' height='150'></a>
 		<a href='https://catalog-education.oracle.com/ords/certview/sharebadge?id=655E60B03D9CC5D8270C8C66DAAA0565CA951564A7A6BEA7235CE53ABC9680AC'><img src='./_badges/ORACLE_AI-Foundations-Associate Badge.png' height='150'></a>
 	<h3>Cloud</h3>
 		<a href='https://catalog-education.oracle.com/ords/certview/sharebadge?id=7A97439BFC6FD7D0994AA66364668F01937FBB40E4E7283F0668DE2E6E000D33'><img src='./_badges/ORACLE_Cloud-Developer-Professional Badge.png' height='150'></a>
@@ -144,7 +145,7 @@
 			<p>
 				<a href="https://tryhackme.com/p/diegogerwig" target="_blank">
 					<img 
-					src="https://tryhackme-badges.s3.amazonaws.com/diegogerwig.png?v=1" 
+					src="https://tryhackme-badges.s3.amazonaws.com/diegogerwig.png?v=11" 
 					width="400px" 
 					alt="TryHackMe Badge">
 				</a>
