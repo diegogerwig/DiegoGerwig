@@ -111,6 +111,7 @@
 		<a href='https://www.credly.com/badges/453e876f-ba84-4a1d-b769-1e7aad435099'><img src='./_badges/IBM_data-science-professional-certificate-2025.png' height='150'></a>
 		<a href='https://www.credly.com/badges/d46011cf-6c61-4605-98c7-6ad2822203fe'><img src='./_badges/Google_Data-Analytics Badge.png' height='150'></a>
 		<a href='./_badges/TheBridge_DataScience_2024_Certificate.pdf'><img src='./_badges/TheBridge_DataScience_2024_Badge.png' height='150'></a>
+		<a href='https://www.credly.com/badges/d93b3386-d62a-47c1-8b34-7b6ea1af991d'><img src='./_badges/LYNUX_FOUNDATION_lfs116-pytorch-and-deep-learning-for-decision-maker.png' height='150'></a>
 	<h3>AI</h3>
 		<a href='https://catalog-education.oracle.com/ords/certview/sharebadge?id=FB9EE4505F72A476F22AC52AAFA4DA0083141D5F99B660283EF91F6598529FCE'><img src='./_badges/ORACLE_AI-Generative_Professional Badge.png' height='150'></a>
 		<a href='https://catalog-education.oracle.com/ords/certview/sharebadge?id=2911B28024EBA113EB2325CA17E0DA1C3F9887685DEE0261FA00D3FC1312A4B7'><img src='./_badges/ORACLE_AI-Vector-Search-Certified Professional.png' height='150'></a>
