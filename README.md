@@ -14,7 +14,7 @@
 ## **📫 How to reach me**
 
 <div style='text-align:left'>
-	<a href='https://www.linkedin.com/in/diegogerwig' style='padding: 10px;'><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white' height='30'></a>
+	<a href='https://www.linkedin.com/in/diegogerwig' target='_blank' rel='noopner noreferrer' style='padding: 10px;'><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white' height='30'></a>
 	<a href='https://wakatime.com/@diegogerwig' style='padding: 10px;'><img alt='Wakatime' src='https://img.shields.io/badge/Wakatime-2496ED.svg?logo=wakatime&logoColor=white&color=green' height='30'></a>
 	<!-- <a href='https://www.hackerrank.com/diegogerwig' style='padding: 10px;'><img alt='Hackerrank' src='https://img.shields.io/badge/Hackerrank-2EC866.svg?logo=hackerrank&logoColor=white' height='30'></a> -->
 	<!-- <a href='https://www.kaggle.com/diegogerwig' style='padding: 10px;'><img alt='Kaggle' src='https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=kaggle&logoColor=white' style='height: 25px;'></a> -->
