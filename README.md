@@ -86,6 +86,7 @@
 		<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="25"></a>
 		<a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white" height="25"></a>
 		<a href="https://www.credly.com/badges/7fce96fb-09f9-48c6-9f7c-d5118c3b9412"><img alt="Qiskit" src="https://img.shields.io/badge/Qiskit-000000.svg?logo=qiskit&logoColor=white" height="25"></a>
+		<a href="#"><img alt="QGIS" src="https://img.shields.io/badge/QGIS-589632.svg?logo=qgis&logoColor=white" height="25"></a>
 	</p>
 
 ---
