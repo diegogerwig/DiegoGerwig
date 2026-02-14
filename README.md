@@ -106,6 +106,7 @@
 		<a href="https://www.credly.com/badges/e9a23cb8-a03c-4587-bdc4-d49b6138e161">
 		<img src="./_badges/GitHub_Foundations Badge.png" height="150"></a>
 	<h3>Data Science</h3>
+		<a href="https://www.credly.com/badges/c78e7067-7c24-427c-b08b-ef26f75a32e7"><img src="./_badges/IBM_data_analytics.png" height="150"></a>
 		<a href="https://www.cloudskillsboost.google/public_profiles/4d6b9bf8-b271-4023-bbe1-53e006f4a102"><img src="./_badges/GOOGLE_CLOUD Data Engineer.png" height="150"></a>
 		<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=4014ABE33050C17E030C3FBCD4BEEC6C7B10E27526FB87ECC02B311A5769F59D"><img src="./_badges/ORACLE_Data_science-Professional Badge.png" height="150"></a>
 		<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=4014ABE33050C17E030C3FBCD4BEEC6C8B065515721C8525D589750CB2DA8609"><img src="./_badges/ORACLE_Data-Foundations-Associate Badge.png" height="150"></a>
