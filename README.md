@@ -237,7 +237,6 @@
 			alt="">
 		</a>   
 		<br>
-		<br>
 		<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 			<img width="90%" 
 			src="https://github-readme-activity-graph.vercel.app/graph/?username=diegogerwig&hide_border=false&theme=vue"
