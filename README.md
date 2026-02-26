@@ -219,11 +219,11 @@
 				alt="">
 			</a>
 		</p>
-<!-- 		<a href="#">
+		<a href="#">
 			<img width="60%" 
 			src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegogerwig&theme=vue-dark&show_icons=true&hide_border=false&langs_count=10&layout=compact"
-			alt="Top Languages Stats - Failed to load">
-		</a> -->
+			alt="">
+		</a>
 		<br>
 		<a href="https://wakatime.com/@diegogerwig">
 			<img width="30%"
