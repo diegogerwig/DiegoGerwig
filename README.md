@@ -228,13 +228,13 @@
 		<a href="https://wakatime.com/@diegogerwig">
 			<img width="30%"
 			src="https://wakatime.com/badge/user/a124cb58-405f-40c8-a801-6033e54c1f7d.svg?style=flat" 
-			alt="Wakatime Badge - Failed to load">
+			alt="">
 		</a>
 		<br>
 		<a href="https://wakatime.com/@diegogerwig">
 			<img width="70%" 
 			src="https://github-readme-stats.vercel.app/api/wakatime?username=diegogerwig&hide_progress=false&layout=compact&custom_title=WAKATIME%20%20%20%20%20📈last%20year%20stats&hide_border=false&theme=vue-dark"
-			alt="Wakatime Stats - Failed to load">
+			alt="">
 		</a>   
 		<br>
 		<br>
