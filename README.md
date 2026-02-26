@@ -240,8 +240,8 @@
 		<br>
 		<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 			<img width="90%" 
-			alt="Activity Graph - Failed to load" 
-			src="https://github-readme-activity-graph.vercel.app/graph/?username=diegogerwig&hide_border=false&theme=vue">
+			src="https://github-readme-activity-graph.vercel.app/graph/?username=diegogerwig&hide_border=false&theme=vue"
+			alt="">
 		</a>
 	</div>
 </details>
