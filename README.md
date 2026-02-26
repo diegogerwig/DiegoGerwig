@@ -212,19 +212,19 @@
 				alt="">
 			</a>
 		</p>
-		<p>
+		<!-- <p>
 			<a href="#">
 				<img width="50%" 
 				src="https://github-readme-stats.vercel.app/api?username=diegogerwig&theme=vue-dark&show_icons=true&hide_border=false&count_private=true"
 				alt="">
 			</a>
-		</p>
-		<a href="#">
+		</p> -->
+		<!-- <a href="#">
 			<img width="60%" 
 			src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegogerwig&theme=vue-dark&show_icons=true&hide_border=false&langs_count=10&layout=compact"
 			alt="">
-		</a>
-		<br>
+		</a> -->
+		<!-- <br> -->
 		<a href="https://wakatime.com/@diegogerwig">
 			<img width="30%"
 			src="https://wakatime.com/badge/user/a124cb58-405f-40c8-a801-6033e54c1f7d.svg?style=flat" 
