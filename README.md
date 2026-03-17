@@ -118,6 +118,7 @@
 		<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FB9EE4505F72A476F22AC52AAFA4DA0083141D5F99B660283EF91F6598529FCE"><img src="./_badges/ORACLE_AI-Generative_Professional Badge.png" height="150"></a>
 		<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=2911B28024EBA113EB2325CA17E0DA1C3F9887685DEE0261FA00D3FC1312A4B7"><img src="./_badges/ORACLE_AI-Vector-Search-Certified Professional.png" height="150"></a>
 		<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=655E60B03D9CC5D8270C8C66DAAA0565CA951564A7A6BEA7235CE53ABC9680AC"><img src="./_badges/ORACLE_AI-Foundations-Associate Badge.png" height="150"></a>
+		<a href="./_badges/UCAM Master Of Professional Development in Artificial Intelligence 2026_01.pdf"><img src="./_badges/UCAM_logo-vertical-ucam-universidad-blanco-sin-fondo.png" height="150"></a>
 	<h3>Cloud</h3>
 		<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E1957E2AD6FA8E196DD91652205B9A79B4CED2FDCEDCA8A9A6E5CCEA5FE8670B"><img src="./_badges/ORACLE_Cloud-Multicloud-Architect Professional.png" height="150"></a>
 		<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=7A97439BFC6FD7D0994AA66364668F01937FBB40E4E7283F0668DE2E6E000D33"><img src="./_badges/ORACLE_Cloud-Developer-Professional Badge.png" height="150"></a>
