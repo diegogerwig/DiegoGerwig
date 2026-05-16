@@ -232,7 +232,13 @@
 			src="https://github-stats-extended.vercel.app/api/top-langs/?username=diegogerwig&theme=vue-dark&hide_border=false&langs_count=10&layout=compact"
 			alt="Top Languages">
 		</a>
-		<!-- <br> -->
+		<br>
+		<a href="https://github.com/diegogerwig">
+			<img width="60%" 
+			src="https://metrics.lecoq.io/diegogerwig?template=classic&base=languages&config.theme=tokyonight"
+			alt="Top Languages Metrics">
+		</a>
+		<br>
 		<a href="https://wakatime.com/@diegogerwig">
 			<img width="30%"
 			src="https://wakatime.com/badge/user/a124cb58-405f-40c8-a801-6033e54c1f7d.svg?style=flat" 
