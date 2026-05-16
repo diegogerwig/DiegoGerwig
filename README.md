@@ -222,10 +222,15 @@
 				alt="">
 			</a>
 		</p> -->
-		<a href="#">
+		<!-- <a href="#">
 			<img width="60%" 
 			src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegogerwig&theme=vue-dark&show_icons=true&hide_border=false&langs_count=10&layout=compact"
 			alt="">
+		</a> -->
+		<a href="https://github.com/diegogerwig">
+			<img width="60%" 
+			src="https://github-stats-extended.vercel.app/api/top-langs/?username=diegogerwig&theme=vue-dark&hide_border=false&langs_count=10&layout=compact"
+			alt="Top Languages">
 		</a>
 		<!-- <br> -->
 		<a href="https://wakatime.com/@diegogerwig">
@@ -246,30 +251,4 @@
 			alt="">
 		</a>
 	</div>
-</details>
-
-<details open>
-    <summary><h2>📊 Stats & Activity</h2></summary>
-    <div align="center">
-        <!-- Tarjetas principales lado a lado para optimizar espacio -->
-        <a href="https://github.com/diegogerwig">
-            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegogerwig&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats">
-        </a>
-        <a href="https://github.com/diegogerwig">
-            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegogerwig&theme=vue-dark&show_icons=true&hide_border=false&langs_count=8&layout=compact" alt="Top Languages">
-        </a>
-        <br><br>
-        <!-- Wakatime y Racha -->
-        <a href="https://wakatime.com/@diegogerwig">
-            <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=diegogerwig&layout=compact&custom_title=WAKATIME%20STATS&theme=vue-dark" alt="Wakatime">
-        </a>
-        <a href="https://github.com/diegogerwig">
-            <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=diegogerwig&theme=vue-dark&hide_border=false" alt="GitHub Streak">
-        </a>
-        <br><br>
-        <!-- Gráfico de actividad -->
-        <a href="https://github.com/diegogerwig">
-            <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph/?username=diegogerwig&hide_border=false&theme=vue-dark&bg_color=1a1b27" alt="Activity Graph">
-        </a>
-    </div>
 </details>
