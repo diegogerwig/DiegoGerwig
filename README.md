@@ -26,88 +26,92 @@
 ## **🛠️ Tools & Skills**
 
 <h3 align="left">👨‍💻 LANGUAGES</h3>
-	<p align="left">
-		<a href="https://github.com/search?q=user%3Adiegogerwig+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" height="25"></a>
-	  	<a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white" height="25"></a>
-	  	<a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white" height="25"></a>
-	  	<a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white" height="25"></a>
-	  	<a href="#"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white" height="25"></a>
-	  	<a href="#"><img alt="Google Apps Script" src="https://custom-icon-badges.demolab.com/badge/Google%20Apps%20Script-02569B.svg?logo=gs&logoColor=white" height="25"></a>
-	  	<a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white" height="25"></a>
-	  	<a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white" height="25"></a>
-	</p>
+    <p align="left">
+        <a href="https://github.com/search?q=user%3Adiegogerwig+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white" height="25"></a>
+        <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25.svg?logo=gnu-bash&logoColor=white" height="25"></a>
+        <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=cplusplus&logoColor=white" height="25"></a>
+        <a href="#"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=black" height="25"></a>
+        <a href="#"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white" height="25"></a>
+        <a href="#"><img alt="Google Apps Script" src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4.svg?logo=googleappsscript&logoColor=white" height="25"></a>
+        <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white" height="25"></a>
+        <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white" height="25"></a>
+    </p>
 
 <h3 align="left">📈 DATA SCIENCE</h3>
-	<p align="left">
-		<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white" height="25"></a>
-		<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white" height="25"></a>
-		<a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-3776AB.svg?logo=python&logoColor=white" height="25"></a>
-		<a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-0C4B5E.svg?logo=seaborn&logoColor=white" height="25"></a>
-		<a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white" height="25"></a>
-		<a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white" height="25"></a>
-		<a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white" height="25"></a>
-		<a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white" height="25"></a>
-		<a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=PyTorch&logoColor=white" height="25"></a>
-		<a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" height="25"></a>
-		<a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white" height="25"></a>
-	</p>
+    <p align="left">
+        <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white" height="25"></a>
+        <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white" height="25"></a>
+        <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-3776AB.svg?logo=python&logoColor=white" height="25"></a>
+        <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-0C4B5E.svg?logo=seaborn&logoColor=white" height="25"></a>
+        <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white" height="25"></a>
+        <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white" height="25"></a>
+        <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white" height="25"></a>
+        <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white" height="25"></a>
+        <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=PyTorch&logoColor=white" height="25"></a>
+        <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" height="25"></a>
+        <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white" height="25"></a>
+    </p>
 
 <h3 align="left">🌍 GEOSPATIAL</h3>
-	<p align="left">
-		<a href="#"><img alt="QGIS" src="https://img.shields.io/badge/QGIS-589632.svg?logo=qgis&logoColor=white" height="25"></a>
-		<a href="#"><img alt="GDAL" src="https://img.shields.io/badge/GDAL-589632.svg?logo=gdal&logoColor=white" height="25"></a>
-		<a href="#"><img alt="POSTGIS" src="https://img.shields.io/badge/POSTGIS-589632.svg?logo=postgis&logoColor=white" height="25"></a>
-		<a href="#"><img alt="GEOPANDAS" src="https://img.shields.io/badge/GEOPANDAS-589632.svg?logo=geopandas&logoColor=white" height="25"></a>
-	</p>
+    <p align="left">
+        <a href="#"><img alt="QGIS" src="https://img.shields.io/badge/QGIS-589632.svg?logo=qgis&logoColor=white" height="25"></a>
+        <!-- GDAL no tiene logo oficial en SimpleIcons, usamos un color verde tierra -->
+        <a href="#"><img alt="GDAL" src="https://img.shields.io/badge/GDAL-007532.svg?logoColor=white" height="25"></a>
+        <!-- PostGIS no tiene logo, usamos logo de PostgreSQL con color diferente -->
+        <a href="#"><img alt="POSTGIS" src="https://img.shields.io/badge/POSTGIS-336791.svg?logo=postgresql&logoColor=white" height="25"></a>
+        <!-- GeoPandas no tiene logo, usamos logo de Pandas con color diferente -->
+        <a href="#"><img alt="GEOPANDAS" src="https://img.shields.io/badge/GEOPANDAS-150458.svg?logo=pandas&logoColor=white" height="25"></a>
+    </p>
 
 <h3 align="left">🏗️ BIM / CAD</h3>
-	<p align="left">
-		<a href="#"><img alt="AUTOCAD" src="https://img.shields.io/badge/AUTOCAD-589632.svg?logo=autocad&logoColor=white" height="25"></a>
-		<a href="#"><img alt="NAVISWORKS" src="https://img.shields.io/badge/NAVISWORKS-589632.svg?logo=navisworks&logoColor=white" height="25"></a>
-	</p>	
+    <p align="left">
+        <a href="#"><img alt="AUTOCAD" src="https://img.shields.io/badge/AUTOCAD-A2111E.svg?logo=autodesk&logoColor=white" height="25"></a>
+        <!-- Navisworks no tiene logo oficial, usamos color gris oscuro de Autodesk -->
+        <a href="#"><img alt="NAVISWORKS" src="https://img.shields.io/badge/NAVISWORKS-525252.svg?logoColor=white" height="25"></a>
+    </p>    
 
 
 <h3 align="left">☁️ CLOUD</h3>
-	<p align="left">
-		<a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white" height="25"></a>
-		<a href="#"><img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4.svg?logo=google-cloud&logoColor=white" height="25"></a>
-	</p>	
+    <p align="left">
+        <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white" height="25"></a>
+        <a href="#"><img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4.svg?logo=google-cloud&logoColor=white" height="25"></a>
+    </p>    
 
 <h3 align="left">🛢️ DATABASES</h3>
-	<p align="left">
-		<a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="25"></a>
-		<a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white" height="25"></a>
-		<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white" height="25"></a>
-		<a href="#"><img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="25"></a>
-		<a href="#"><img alt="Adminer" src="https://img.shields.io/badge/Adminer-34567C?logo=adminer&logoColor=white" height="25"></a>
-		<a href="#"><img alt="pgAdmin" src="https://img.shields.io/badge/pgAdmin-336791?logo=postgresql&logoColor=white" height="25"></a>
-	</p>
+    <p align="left">
+        <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="25"></a>
+        <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white" height="25"></a>
+        <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white" height="25"></a>
+        <a href="#"><img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="25"></a>
+        <a href="#"><img alt="Adminer" src="https://img.shields.io/badge/Adminer-34567C?logo=adminer&logoColor=white" height="25"></a>
+        <a href="#"><img alt="pgAdmin" src="https://img.shields.io/badge/pgAdmin-336791?logo=postgresql&logoColor=white" height="25"></a>
+    </p>
 
 <h3 align="left">🖥️ WEB</h3>
-	<p align="left">
-		<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" height="25"></a>
-		<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" height="25"></a>
-		<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" height="25"></a>
-		<a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white" height="25"></a>
-		<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C.svg?logo=bootstrap&logoColor=black" height="25"></a>
-		<a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwindcss-0F172A.svg?&logo=tailwindcss&logoColor=white" height="25"></a>
-	</p>
+    <p align="left">
+        <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" height="25"></a>
+        <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" height="25"></a>
+        <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" height="25"></a>
+        <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white" height="25"></a>
+        <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C.svg?logo=bootstrap&logoColor=white" height="25"></a>
+        <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwindcss-0F172A.svg?&logo=tailwindcss&logoColor=white" height="25"></a>
+    </p>
 
 <h3 align="left">🧩 TOOLS</h3>
-	<p align="left">
-		<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white" height="25"></a>
-		<a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white" height="25"></a>
-		<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" height="25"></a>
-		<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white" height="25"></a>
-		<a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white" height="25"></a>
-		<a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=green" height="25"></a>
-		<a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white" height="25"></a>
-		<a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571.svg?logo=fastapi&logoColor=white" height="25"></a>
-		<a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-46E3B7.svg?logo=render&logoColor=white" height="25"></a>
-		<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="25"></a>
-		<a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white" height="25"></a>
-		<a href="https://www.credly.com/badges/7fce96fb-09f9-48c6-9f7c-d5118c3b9412"><img alt="Qiskit" src="https://img.shields.io/badge/Qiskit-000000.svg?logo=qiskit&logoColor=white" height="25"></a>
-	</p>
+    <p align="left">
+        <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white" height="25"></a>
+        <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white" height="25"></a>
+        <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" height="25"></a>
+        <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white" height="25"></a>
+        <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white" height="25"></a>
+        <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white" height="25"></a>
+        <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white" height="25"></a>
+        <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571.svg?logo=fastapi&logoColor=white" height="25"></a>
+        <a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-46E3B7.svg?logo=render&logoColor=white" height="25"></a>
+        <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="25"></a>
+        <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=googlesheets&logoColor=white" height="25"></a>
+        <a href="https://www.credly.com/badges/7fce96fb-09f9-48c6-9f7c-d5118c3b9412"><img alt="Qiskit" src="https://img.shields.io/badge/Qiskit-6929C4.svg?logo=qiskit&logoColor=white" height="25"></a>
+    </p>
 
 ---
 
