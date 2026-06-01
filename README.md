@@ -52,11 +52,32 @@
 		<a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white" height="25"></a>
 	</p>
 
+<h3 align="left">🌍 GEOSPATIAL</h3>
+	<p align="left">
+		<a href="#"><img alt="QGIS" src="https://img.shields.io/badge/QGIS-589632.svg?logo=qgis&logoColor=white" height="25"></a>
+		<a href="#"><img alt="GDAL" src="https://img.shields.io/badge/GDAL-589632.svg?logo=gdal&logoColor=white" height="25"></a>
+		<a href="#"><img alt="POSTGIS" src="https://img.shields.io/badge/POSTGIS-589632.svg?logo=postgis&logoColor=white" height="25"></a>
+		<a href="#"><img alt="GEOPANDAS" src="https://img.shields.io/badge/GEOPANDAS-589632.svg?logo=geopandas&logoColor=white" height="25"></a>
+	</p>
+
+<h3 align="left">🏗️ BIM / CAD</h3>
+	<p align="left">
+		<a href="#"><img alt="AUTOCAD" src="https://img.shields.io/badge/AUTOCAD-589632.svg?logo=autocad&logoColor=white" height="25"></a>
+		<a href="#"><img alt="NAVISWORKS" src="https://img.shields.io/badge/NAVISWORKS-589632.svg?logo=navisworks&logoColor=white" height="25"></a>
+	</p>	
+
+
+<h3 align="left">☁️ CLOUD</h3>
+	<p align="left">
+		<a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white" height="25"></a>
+		<a href="#"><img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4.svg?logo=google-cloud&logoColor=white" height="25"></a>
+	</p>	
+
 <h3 align="left">🛢️ DATABASES</h3>
 	<p align="left">
+		<a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="25"></a>
 		<a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white" height="25"></a>
 		<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white" height="25"></a>
-		<a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="25"></a>
 		<a href="#"><img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="25"></a>
 		<a href="#"><img alt="Adminer" src="https://img.shields.io/badge/Adminer-34567C?logo=adminer&logoColor=white" height="25"></a>
 		<a href="#"><img alt="pgAdmin" src="https://img.shields.io/badge/pgAdmin-336791?logo=postgresql&logoColor=white" height="25"></a>
@@ -86,7 +107,6 @@
 		<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="25"></a>
 		<a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white" height="25"></a>
 		<a href="https://www.credly.com/badges/7fce96fb-09f9-48c6-9f7c-d5118c3b9412"><img alt="Qiskit" src="https://img.shields.io/badge/Qiskit-000000.svg?logo=qiskit&logoColor=white" height="25"></a>
-		<a href="#"><img alt="QGIS" src="https://img.shields.io/badge/QGIS-589632.svg?logo=qgis&logoColor=white" height="25"></a>
 	</p>
 
 ---
